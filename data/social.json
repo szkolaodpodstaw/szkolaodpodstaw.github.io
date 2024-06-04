@@ -3,22 +3,17 @@
     {
       "name": "facebook",
       "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/people/Szko%C5%82a-od-podstaw/61559999446413/"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@Szkolaodpodstaw"
     },
     {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "whatsapp",
+      "icon": "fab fa-whatsapp",
+      "link": "https://www.whatsapp.com/channel/0029VabprDN90x34yKC3vF30"
     }
   ]
 }

@@ -1,33 +1,65 @@
 ---
-title: "Privacy"
+title: "Polityka prywatności"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Polityka prywatności"
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+### Polityka prywatności
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### 1. Informacje ogólne
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Niniejsza Polityka prywatności określa zasady przetwarzania i ochrony danych osobowych przekazanych przez Użytkowników w związku z korzystaniem z serwisu "Szkoła od podstaw".
 
-#### Gathering of Personal Information
+#### 2. Administrator danych
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Administratorem danych osobowych w ramach projektu "Szkoła od podstaw" jest zespół koordynujący projekt, dostępny pod adresem email: szkolaodpodstaw@gmail.com.
 
-#### Protection of Personal- Information
+#### 3. Zakres zbieranych danych
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+Zbieramy wyłącznie adresy e-mail przekazane dobrowolnie przez Użytkowników oraz informacje z profili w mediach społecznościowych, jeśli Użytkownik kontaktuje się z nami przez te kanały.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+#### 4. Cel przetwarzania danych
 
-#### Privacy Policy Changes
+Dane osobowe przetwarzane są w celu:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Umożliwienia kontaktu z Użytkownikami
+Przesyłania informacji dotyczących projektu, w tym informacji promocyjnych i marketingowych
+
+#### 5. Podstawa prawna przetwarzania danych
+
+Dane osobowe przetwarzane są na podstawie zgody Użytkownika.
+
+#### 6. Prawa Użytkowników
+
+Użytkownik ma prawo do:
+
+- Dostępu do swoich danych osobowych
+- Sprostowania danych osobowych
+- Usunięcia danych osobowych
+- Ograniczenia przetwarzania danych osobowych
+- Sprzeciwu wobec przetwarzania danych osobowych
+- Cofnięcia zgody na przetwarzanie danych osobowych
+
+#### 7. Udostępnianie danych
+
+Adresy e-mail oraz informacje z profili w mediach społecznościowych Użytkowników nie będą udostępniane podmiotom trzecim.
+
+#### 8. Bezpieczeństwo danych
+
+Dbamy o bezpieczeństwo danych osobowych Użytkowników, stosując odpowiednie środki techniczne i organizacyjne w celu ochrony danych przed nieuprawnionym dostępem, utratą, zniszczeniem lub modyfikacją.
+
+#### 9. Okres przechowywania danych
+
+Dane osobowe będą przechowywane przez okres niezbędny do realizacji celów, dla których zostały zebrane, a następnie usuwane na życzenie Użytkownika.
+
+#### 10. Zmiany w Polityce prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w Polityce prywatności. O wszelkich zmianach Użytkownicy będą informowani poprzez zamieszczenie zaktualizowanej Polityki prywatności na stronie internetowej.
+
+#### 11. Kontakt
+
+W przypadku pytań dotyczących Polityki prywatności, prosimy o kontakt na adres e-mail: szkolaodpodstaw@gmail.com.

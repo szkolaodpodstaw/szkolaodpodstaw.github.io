@@ -1,51 +1,59 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Uzgadniamy wizję dla współczesnej szkoły."
+  content: "'Szkoła od podstaw' to projekt społecznościowy, inspirowany sytuacją w nowej szkole w Warszawie."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Tło projektu"
+    link: "/about"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Co właściwie chcecie zrobić?"
+    image: "/images/service-faq.png"
+    content: "Chcemy pokazywać **współczesną wizję** szkoły w mediach społecznościowych."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Współczesną?** Taką, do jakiej aktualnie skłania się większość ekspertów."
+      - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół."
+      - "**Jak to zrobicie?** Będziemy publikować postępy, zbierać reakcje, a na koniec zrobimy badanie wpływu projektu w Szkole 396. Czytaj dalej."      
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Jak to zrobicie?"
+    image: "/images/service-how.png"
+    content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji. A dokładniej chcemy:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Prezentować kierunki rozwoju współczesnej pedagogiki, głosy ekspertów i przykłady."
+      - "Współpracować z ekspertami, rodzicami, nauczycielami, uczniami i influencerami."
+      - "Przechodzić od ogółu do szczegółu: Kogo chcemy wychować? Jakimi metodami chcemy pracować? Oceniać czy nie oceniać? Chwalić czy nie chwalić?"
+
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Rekrutacja"
+      link: "/hiring"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Przykład"
+    image: "/images/service-example.png"
+    content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki ‘Współczesna Pedagogika’."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Czas jest ograniczony."
+      - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani."
+      - "Sytuacja może prowadzić do napięć."
+    button:
+      enable: false
+      label: ""
+      link: ""
+  - title: "Zasady projektu"
+    image: "/images/service-rules.png"
+    content: ""
+    bulletpoints:
+      - "Opieramy działania na **aktualnym konsensusie naukowym**, najlepszych praktykach, oraz wartościach uniwersalnych."
+      - "Akceptujemy emocje, w tym negatywne, unikając pesymizmu, narzekania i pretensji."
+      - "Zachowujemy dystans do własnej pracy oraz zdolność do śmiechu z własnej osoby."
     button:
       enable: false
       label: ""
