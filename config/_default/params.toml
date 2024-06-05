@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Szkoła od podstaw"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -62,8 +62,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
+keywords = ["Edukacja", "Pedagogika", "Szkoła", "Współczesna Szkoła", "Nowa Szkoła"]
+description = "Projekt społecznościowy, inspirowany sytuacją w nowej szkole w Warszawie."
 author = "zeon.studio"
 image = "images/og-image.png"
 

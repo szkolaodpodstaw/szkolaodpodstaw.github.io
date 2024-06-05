@@ -13,7 +13,7 @@ Od czegoś trzeba zacząć. My chcemy zacząć od odpowiedzi na pytanie: kogo ch
 
 ### Kogo chcemy wychować? 
 
-Tu **1 września 2024** opublikujemy naszą propozycję odpowiedzi na to pytanie.
+Tu **1 września 2024** opublikujemy propozycję odpowiedzi na to pytanie.
 
 W międzyczasie.. 
 
