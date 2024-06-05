@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Uzgadniamy wizję dla współczesnej szkoły."
-  content: "Szkoła od podstaw to projekt społecznościowy, inspirowany sytuacją w nowej szkole w Warszawie."
+  content: "**Szkoła od podstaw** to projekt społecznościowy, inspirowany sytuacją w nowej szkole w Warszawie."
   image: "/images/banner.png"
   button:
     enable: true
@@ -19,9 +19,9 @@ features:
       - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół."
       - "**Jak to zrobicie?** Będziemy publikować postępy, zbierać reakcje, a na koniec zrobimy badanie wpływu projektu w Szkole 396. Czytaj dalej."      
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Wizja 0.1"
+      link: "/vision01"
 
   - title: "Jak to zrobicie?"
     image: "/images/service-how.png"
