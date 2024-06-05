@@ -19,8 +19,8 @@ W międzyczasie..
 
 ### Ciekawostki
 
-#### Czy wiesz, że współczesna pedagogika staje się bardziej wolnościowa? 
+#### Czy wiesz, że współczesna pedagogika zmienia się w stronę większej autonomii nauczycieli i uczniów? 
 
-Kiedyś nauczyciele i rodzice uczyli według ustalonych wzorców, teraz ważna staje się autonomia nauczycieli i uczniów. Chodzi o to, byśmy uczyli się samodzielnie rozwijać, myśleć krytycznie, rozwiązywać problemy i tworzyć coś nowego. Oto cytat z przedmowy do książki "Współczesna Pedagogika Rodziców i Nauczycieli":
+Kiedyś nauczyciele i rodzice uczyli według standardowych wzorców, teraz ważna staje się autonomia nauczycieli i uczniów. Chodzi o to, byśmy uczyli się samodzielnie rozwijać, myśleć krytycznie, rozwiązywać problemy i tworzyć coś nowego. Oto cytat z przedmowy do książki "Współczesna Pedagogika Rodziców i Nauczycieli":
 
 > Współczesna rzeczywistość pedagogiczna ewoluuje od pedagogiki adaptacyjnej, w której nauczyciel (trener, rodzic) wychowuje według 'sprawdzonych' i akceptowalnych przez pokolenia wzorców i norm, a zasadniczym celem jego edukacyjnych oddziaływań jest upodobnienie wychowanka do dominujących wzorców społecznych, ku pedagogice emancypacyjnej, w której podstawą rozwoju jest autonomia nauczycieli i uczniów, a pożądanym efektem wychowania - rosnąca zdolność ucznia (dziecka, zawodnika) do samodzielnego i twórczego konstruowania swojego zachowania (swojego 'Ja').
