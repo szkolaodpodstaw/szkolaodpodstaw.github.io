@@ -16,6 +16,15 @@ name = "Rekrutacja"
 pageRef = "/hiring"
 weight = 3
 
+[[main]]
+weight = 4
+name = "Wizja"
+
+[[main]]
+parent = "Wizja"
+name = "Wizja 0.1"
+pageRef = "/vision01"
+
 # footer menu
 [[footer]]
 name = "Tło projektu"
