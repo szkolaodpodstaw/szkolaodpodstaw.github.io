@@ -11,9 +11,11 @@ draft: false
 
 {{< image src="images/about.png" caption="" alt="alter-text" height="250" width="1200" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-Ogólna sytuacja w szkole stopniowo się pogarsza. Na szczęście pojawia się coraz więcej ekspertów, którzy nazywają problem i wskazują kierunek potrzebnych zmian.
+Wszystko zaczęło się, kiedy po radosnym czasie przedszkola, moje dzieci poszły do szkoły. Ich entuzjazm do nauki gasł w oczach.
 
-Pomysł powstał w związku z sytuacją w Szkole Podstawowej nr 396 w Warszawie. Dwa lata po otwarciu szkoła została bez dyrektora, a Urząd Miasta uruchomił program 'Szkoła od Podstaw'. Program wskazuje na potrzebę poprawy komunikacji, integracji i opracowania wizji szkoły. Ale jak zintegrować 100 nauczycieli, 800 uczniów i ponad 1500 rodziców wokół wspólnej wizji szkoły?
+Wtedy nie potrafiłem nazwać sedna problemu, ale ten wstrząs obudził moje zainteresowanie. Dziś, po kilku latach, widzę jak ciągle przybywa specjalistów nazywających problem i wskazujących kierunek potrzebnych zmian. 
+
+Pomysł powstał w związku z sytuacją w Szkole Podstawowej nr 396 w Warszawie. Trafialiśmy na wspaniałych nauczycieli, ale sytuacja ogólna w szkole stopniowo się pogarszała. W krytycznym momencie, 2 lata po otwarciu, szkoła została bez dyrektora, a urząd miasta uruchomił program 'Szkoła od Podstaw'. Program wskazuje na potrzebę poprawy komunikacji, integracji i opracowania wizji szkoły. Ale jak zintegrować 100 nauczycieli, 800 uczniów i ponad 1500 rodziców wokół wspólnej wizji szkoły?
 
 A gdyby wykorzystać media społecznościowe, łącząc wiedzę ekspertów z energią młodych ludzi? Gdyby przełożyć wizję współczesnej pedagogiki tworzoną na uniwersytetach i w instytutach na język influencerów?
 
