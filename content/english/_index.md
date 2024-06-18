@@ -11,28 +11,28 @@ banner:
 
 # Features
 features:
-  - title: "Co właściwie chcecie zrobić?"
+  - title: "Co właściwie chcemy zrobić?"
     image: "/images/service-faq.png"
-    content: "Chcemy pokazywać **współczesną wizję** szkoły w mediach społecznościowych."
+    content: "Chcemy rozmawiać o **współczesnej wizji szkoły** w mediach społecznościowych."
     bulletpoints:
-      - "**Współczesną?** Taką, do jakiej aktualnie skłania się większość ekspertów."
+      - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować."
+      - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów."
       - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół."
-      - "**Jak to zrobicie?** Będziemy publikować postępy, zbierać reakcje, a na koniec zrobimy badanie wpływu projektu w Szkole 396. Czytaj dalej."      
     button:
       enable: true
       label: "Wizja 0.1"
       link: "/vision01"
 
-  - title: "Jak to zrobicie?"
+  - title: "Jak to zrobimy?"
     image: "/images/service-how.png"
-    content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji. A dokładniej chcemy:"
+    content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
     bulletpoints:
-      - "Prezentować kierunki rozwoju współczesnej pedagogiki, głosy ekspertów i przykłady."
-      - "Współpracować z ekspertami, rodzicami, nauczycielami, uczniami i influencerami."
-      - "Przechodzić od ogółu do szczegółu: Kogo chcemy wychować? Jakimi metodami chcemy pracować? Oceniać czy nie oceniać? Chwalić czy nie chwalić?"
+      - "**Pokażemy scenki:** Krótkie historie z życia, które ilustrują codzienne wyzwania."
+      - "**Porozmawiamy:** Omówimy scenki w małych grupach online."
+      - "**Zwiększymy zasięg:** Opublikujemy wyniki, zbierzemy reakcje i przygotujemy następną iterację."
 
     button:
-      enable: true
+      enable: false
       label: "Rekrutacja"
       link: "/hiring"
 
