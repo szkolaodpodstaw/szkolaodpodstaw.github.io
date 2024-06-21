@@ -27,8 +27,8 @@ features:
     image: "/images/service-how.png"
     content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
     bulletpoints:
-      - "**Pokażemy scenki:** Krótkie historie z życia, które ilustrują codzienne wyzwania."
-      - "**Porozmawiamy:** Omówimy scenki w małych grupach online."
+      - "**Pokażemy scenki:** Krótkie historie z życia."
+      - "**Porozmawiamy:** Omówimy scenki w małych grupach."
       - "**Zwiększymy zasięg:** Opublikujemy wyniki, zbierzemy reakcje i przygotujemy następną iterację."
 
     button:
