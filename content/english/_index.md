@@ -12,13 +12,9 @@ banner:
 # Features
 features:
   - title: "Co właściwie chcemy zrobić?"
-  - title: "Co właściwie chcemy zrobić?"
     image: "/images/service-faq.png"
     content: "Chcemy rozmawiać o **współczesnej wizji szkoły** w mediach społecznościowych."
-    content: "Chcemy rozmawiać o **współczesnej wizji szkoły** w mediach społecznościowych."
     bulletpoints:
-      - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować."
-      - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów."
       - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować."
       - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów."
       - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół."
@@ -28,9 +24,7 @@ features:
       link: "/vision01"
 
   - title: "Jak to zrobimy?"
-  - title: "Jak to zrobimy?"
     image: "/images/service-how.png"
-    content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
     content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
     bulletpoints:
       - "**Pokażemy scenki:** Krótkie historie z życia, które ilustrują codzienne wyzwania."
