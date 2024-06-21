@@ -27,9 +27,9 @@ features:
     image: "/images/service-how.png"
     content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
     bulletpoints:
-      - "**Pokażemy scenki:** Krótkie historie z życia."
-      - "**Porozmawiamy:** Omówimy scenki w małych grupach."
-      - "**Zwiększymy zasięg:** Opublikujemy wyniki, zbierzemy reakcje i przygotujemy następną iterację."
+      - "**Pokażemy scenki:** Krótkie historie z życia.:clapper:"
+      - "**Porozmawiamy:** Omówimy scenki w małych grupach.:thinking:"
+      - "**Zwiększymy zasięg:** Opublikujemy wyniki, zbierzemy reakcje i przygotujemy następną iterację.:mega::thumbsup::arrows_counterclockwise:"
 
     button:
       enable: false
@@ -41,9 +41,9 @@ features:
     image: "/images/service-example.png"
     content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki ‘Współczesna Pedagogika’."
     bulletpoints:
-      - "Czas jest ograniczony."
-      - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani."
-      - "Sytuacja może prowadzić do napięć."
+      - "Czas jest ograniczony.	:hourglass:"
+      - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani.:confused:"
+      - "Sytuacja może prowadzić do napięć.:unamused::confounded:"
     button:
       enable: false
       label: ""
@@ -52,9 +52,9 @@ features:
     image: "/images/service-rules.png"
     content: ""
     bulletpoints:
-      - "Opieramy działania na **aktualnym konsensusie naukowym**, najlepszych praktykach, oraz wartościach uniwersalnych."
-      - "Akceptujemy emocje, w tym negatywne, unikając pesymizmu, narzekania i pretensji."
-      - "Zachowujemy dystans do własnej pracy oraz zdolność do śmiechu z własnej osoby."
+      - "Opieramy działania na **aktualnym konsensusie naukowym**.:blue_book:"
+      - "Akceptujemy emocje:broken_heart:, unikając pesymizmu, narzekania i pretensji.:weary:"
+      - "Zachowujemy dystans do własnej pracy oraz zdolność do śmiechu z własnej osoby.:face_with_hand_over_mouth:"
     button:
       enable: false
       label: ""
