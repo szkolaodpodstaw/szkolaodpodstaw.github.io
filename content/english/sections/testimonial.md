@@ -5,17 +5,17 @@ description: "Rekrutujemy ekspertów, patronów i entuzjastów wspierających pr
 
 # Testimonials
 testimonials:
-  - name: "Ekspert"
+  - name: "Ekspert:superhero_woman:"
     designation: ""
     avatar: "/images/avatar-sm.png"
     content: "..."
 
-  - name: "Influencer"
+  - name: "Influencer:sunglasses:"
     designation: ""
     avatar: "/images/avatar-sm.png"
     content: "..."
 
-  - name: "Patron"
+  - name: "Patron:office:"
     designation: ""
     avatar: "/images/avatar-sm.png"
     content: "..."

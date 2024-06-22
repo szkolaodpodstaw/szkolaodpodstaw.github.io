@@ -41,7 +41,7 @@ features:
     image: "/images/service-example.png"
     content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki ‘Współczesna Pedagogika’."
     bulletpoints:
-      - "Czas jest ograniczony.	:hourglass:"
+      - "Czas jest ograniczony.:hourglass:"
       - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani.:confused:"
       - "Sytuacja może prowadzić do napięć.:unamused::confounded:"
     button:
