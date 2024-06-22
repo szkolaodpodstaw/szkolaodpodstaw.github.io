@@ -15,7 +15,7 @@ features:
     image: "/images/service-faq.png"
     content: "Chcemy rozmawiać o **współczesnej wizji szkoły** w mediach społecznościowych."
     bulletpoints:
-      - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować."
+      - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować.:speech_balloon:"
       - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów.:superhero_woman::superhero_man:"
       - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół.:handshake:"
     button:
