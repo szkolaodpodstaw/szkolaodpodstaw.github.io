@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Wsparcie projektu"
-description: "Rekrutujemy ekspertów:superhero_woman:, influencerów:sunglasses:, oraz patronów:office: wspierających projekt merytorycznie i medialnie."
+description: "Rekrutujemy ekspertów:superhero_woman:, influencerów:sunglasses:, oraz patronów:office: wspierających projekt merytorycznie i medialnie: szkolaodpodstaw@gmail.com"
 
 # Testimonials
 testimonials:

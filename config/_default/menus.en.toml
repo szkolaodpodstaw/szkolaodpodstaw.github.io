@@ -7,13 +7,13 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "Tło projektu"
+name = "Tło"
 pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Rekrutacja"
-pageRef = "/hiring"
+name = "Scena"
+pageRef = "/stage"
 weight = 3
 
 [[main]]
@@ -27,13 +27,13 @@ pageRef = "/vision01"
 
 # footer menu
 [[footer]]
-name = "Tło projektu"
+name = "Tło"
 pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Rekrutacja"
-pageRef = "/hiring"
+name = "Scena"
+pageRef = "/stage"
 weight = 2
 
 [[footer]]

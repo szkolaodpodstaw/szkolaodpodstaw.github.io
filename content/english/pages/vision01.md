@@ -9,13 +9,15 @@ draft: false
 ---
 ## Wizja 0.1
 
-Od czegoś trzeba zacząć. My chcemy zacząć od odpowiedzi na pytanie: kogo chcemy wychować?
+Tu **1 września 2024** opublikujemy pierwszą propozycję wizji dla współczesnej szkoły.
 
-### Kogo chcemy wychować? 
+## Kogo chcemy wychować?
 
-Tu **1 września 2024** opublikujemy propozycję odpowiedzi na to pytanie.
+Jakoś trzeba zacząć. My chcemy zacząć od odpowiedzi na pytanie: kogo chcemy wychować? 
 
-W międzyczasie.. 
+## Jakimi metodami?
+
+ Chcemy przechodzić od ogółu do szczegółu. Kogo chcemy wychować? Jakimi metodami? Oceniać czy nie oceniać? Chwalić czy nie chwalić?
 
 ### Ciekawostki
 
