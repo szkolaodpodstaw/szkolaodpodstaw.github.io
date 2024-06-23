@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Uzgadniamy wizję dla współczesnej szkoły."
-  content: "**Szkoła od podstaw** to projekt społecznościowy inspirowany sytuacją w nowej szkole w Warszawie."
+  content: "**Szkoła od podstaw** to projekt rodziców inspirowany sytuacją w nowej szkole w Warszawie."
   image: "/images/banner.png"
   button:
     enable: true
