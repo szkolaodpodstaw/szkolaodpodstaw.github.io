@@ -15,7 +15,7 @@ Wtedy nie potrafiłem nazwać sedna problemu, ale ten wstrząs obudził moje zai
 
 Pomysł powstał w związku z sytuacją w Szkole Podstawowej nr 396 w Warszawie. Trafialiśmy na wspaniałych nauczycieli, ale ogólna sytuacja w szkole stopniowo się pogarszała.:chart_with_downwards_trend::sos: W krytycznym momencie, dwa lata po otwarciu, szkoła została bez dyrektora, a urząd miasta:office: uruchomił program 'Szkoła od Podstaw'. Program wskazuje na potrzebę poprawy komunikacji, integracji rady pedagogicznej:woman_teacher::man_teacher:, społeczności uczniowskiej:girl::boy: oraz opracowania wizji szkoły. Program zaleca także przeprowadzenie szkoleń dydaktycznych i wychowawczych dla nauczycieli, ustalenie zasad postępowania w przypadku roszczeń rodziców z pominięciem ustalonej procedury, oraz zapewnienie ochrony prawnej nauczycielom.:shield::woman_teacher::man_teacher::shield:
 
-Czy można jednak pójść dalej? Nie tylko chronić nauczycieli przed rodzicami, lecz także zaangażować rodziców w rozwiązanie problemu? Ale jak zintegrować 100 nauczycieli, 800 uczniów i ponad 1500 rodziców wokół wspólnej wizji szkoły?:handshake:
+Czy można jednak pójść dalej? Nie tylko chronić nauczycieli przed rodzicami, lecz także zaangażować rodziców w rozwiązanie problemu? Tylko jak zintegrować ponad tysiąc osób wokół wspólnej wizji szkoły?:handshake:
 
 A gdyby wykorzystać media społecznościowe?:bulb:Gdyby przełożyć wizję współczesnej pedagogiki, tworzoną przez ekspertów na uniwersytetach i w instytutach, na język influencerów w mediach społecznościowych?:bulb:
 
