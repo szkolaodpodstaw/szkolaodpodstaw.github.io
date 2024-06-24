@@ -21,7 +21,7 @@ Jakoś trzeba zacząć. My chcemy zacząć od odpowiedzi na pytanie: kogo chcemy
 
 ### Ciekawostki
 
-#### Czy wiesz, że współczesna pedagogika zmienia się w stronę większej autonomii nauczycieli i uczniów? 
+#### Czy wiesz, że współczesna pedagogika zmienia się w stronę emancypacji nauczycieli i uczniów? 
 
 Kiedyś nauczyciele i rodzice uczyli według standardowych wzorców, teraz ważna staje się autonomia nauczycieli i uczniów. Chodzi o to, byśmy uczyli się samodzielnie rozwijać, myśleć krytycznie, rozwiązywać problemy i tworzyć coś nowego. Oto cytat z przedmowy do książki "Współczesna Pedagogika Rodziców i Nauczycieli":
 
