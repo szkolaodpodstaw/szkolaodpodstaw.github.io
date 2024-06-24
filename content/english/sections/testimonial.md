@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Wsparcie projektu"
 description: "Rekrutujemy ekspertów:superhero_woman:, influencerów:sunglasses:, oraz patronów:office: wspierających projekt merytorycznie, medialnie i finansowo: szkolaodpodstaw@gmail.com"
 

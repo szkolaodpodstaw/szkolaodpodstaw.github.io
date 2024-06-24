@@ -29,7 +29,7 @@ features:
     bulletpoints:
       - "**Pokażemy scenki:** Krótkie historie z życia.:clapper:"
       - "**Porozmawiamy:** Omówimy scenki w małych grupach.:thinking:"
-      - "**Zwiększymy zasięg:** Opublikujemy wyniki, zbierzemy reakcje i przygotujemy następną iterację.:mega::thumbsup::arrows_counterclockwise:"
+      - "**Włączymy ekspertów:** Podsumujemy dyskusje, zbierzemy reakcje i przygotujemy następną iterację.:mega::thumbsup::arrows_counterclockwise:"
 
     button:
       enable: false
@@ -48,11 +48,11 @@ features:
       enable: false
       label: ""
       link: ""
-  - title: "Zasady projektu"
+  - title: "Czym się kierujemy?"
     image: "/images/service-rules.png"
     content: ""
     bulletpoints:
-      - "Opieramy działania na **aktualnym konsensusie naukowym**.:blue_book:"
+      - "Opieramy działania na **aktualnym konsensusie naukowym**:blue_book: i realiach życia."
       - "Akceptujemy emocje:broken_heart:, unikając pesymizmu, narzekania i pretensji.:weary:"
       - "Zachowujemy dystans do własnej pracy oraz zdolność do śmiechu z własnej osoby.:face_with_hand_over_mouth:"
     button:

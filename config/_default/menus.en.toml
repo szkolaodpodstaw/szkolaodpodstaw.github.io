@@ -12,11 +12,6 @@ pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Scena"
-pageRef = "/stage"
-weight = 3
-
-[[main]]
 weight = 4
 name = "Wizja"
 
@@ -30,11 +25,6 @@ pageRef = "/vision01"
 name = "Tło"
 pageRef = "/about"
 weight = 1
-
-[[footer]]
-name = "Scena"
-pageRef = "/stage"
-weight = 2
 
 [[footer]]
 name = "Polityka prywatności"
