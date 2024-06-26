@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Co właściwie chcemy zrobić?"
     image: "/images/service-faq.png"
-    content: "Chcemy rozmawiać o **współczesnej wizji szkoły** w mediach społecznościowych."
+    content: "Chcemy rozmawiać o **współczesnej wizji szkoły i wychowania** w mediach społecznościowych."
     bulletpoints:
       - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować.:speech_balloon:"
       - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów.:superhero_woman::superhero_man:"
