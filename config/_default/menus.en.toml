@@ -1,30 +1,5 @@
 ############# English navigation ##############
 
-# main menu
-[[main]]
-name = "Strona główna"
-pageRef = "/"
-weight = 1
-
-[[main]]
-name = "Tło"
-pageRef = "/about"
-weight = 2
-
-[[main]]
-weight = 4
-name = "Wizja"
-
-[[main]]
-parent = "Wizja"
-name = "Wizja 0.1"
-pageRef = "/vision01"
-
-# footer menu
-[[footer]]
-name = "Tło"
-pageRef = "/about"
-weight = 1
 
 [[footer]]
 name = "Polityka prywatności"

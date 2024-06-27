@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "Uzgadniamy wizję dla współczesnej szkoły."
+  title: "Chcemy zrozumieć współczesną pedagogikę."
   content: "**Szkoła od podstaw** to inicjatywa rodziców inspirowana sytuacją w nowej szkole w Warszawie."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Tło projektu"
     link: "/about"
 
@@ -13,19 +13,19 @@ banner:
 features:
   - title: "Co właściwie chcemy zrobić?"
     image: "/images/service-faq.png"
-    content: "Chcemy rozmawiać o **współczesnej wizji szkoły i wychowania** w mediach społecznościowych."
+    content: "Chcemy rozmawiać o **współczesnej wizji szkoły i wychowania**."
     bulletpoints:
-      - "**Rozmawiać?** Tak, rozmowa w social media to wyzwanie, ale chcemy spróbować.:speech_balloon:"
+      - "**Rozmawiać?** Tak, rozmowa na ten temat to wyzwanie, ale chcemy spróbować.:speech_balloon:"
       - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów.:superhero_woman::superhero_man:"
-      - "**Po co?** Żeby wszyscy w szkole mieli wspólną wizję i lepiej pracowali jako zespół.:handshake:"
+      - "**Po co?** Żeby wszyscy w szkole lepiej pracowali jako zespół.:handshake:"
     button:
-      enable: true
+      enable: false
       label: "Wizja 0.1"
       link: "/vision01"
 
   - title: "Jak to zrobimy?"
     image: "/images/service-how.png"
-    content: "Chcemy wykorzystać media społecznościowe jako środek komunikacji."
+    content: "Chcemy przekładać język ekspertów na praktykę."
     bulletpoints:
       - "**Pokażemy scenki:** Krótkie historie z życia.:clapper:"
       - "**Porozmawiamy:** Omówimy scenki w małych grupach.:thinking:"
@@ -39,7 +39,7 @@ features:
 
   - title: "Przykład"
     image: "/images/service-example.png"
-    content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki ‘Współczesna Pedagogika’."
+    content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki **Współczesna Pedagogika**."
     bulletpoints:
       - "Czas jest ograniczony.:hourglass:"
       - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani.:confused:"
@@ -54,7 +54,7 @@ features:
     bulletpoints:
       - "Opieramy działania na **aktualnym konsensusie naukowym**:blue_book: i realiach życia."
       - "Akceptujemy emocje:broken_heart:, unikając pesymizmu, narzekania i pretensji.:weary:"
-      - "Zachowujemy dystans do własnej pracy oraz zdolność do śmiechu z własnej osoby.:face_with_hand_over_mouth:"
+      - "Zachowujemy zdolność do śmiechu z własnej osoby.:face_with_hand_over_mouth:"
     button:
       enable: false
       label: ""
