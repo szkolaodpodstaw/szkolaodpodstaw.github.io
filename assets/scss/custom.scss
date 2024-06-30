@@ -1,1 +1,20 @@
 // Add your own custom styles here
+// .content p, li, li p {
+//     font-size: 1.2em !important;
+// }
+
+/* Ustawienie bazowego rozmiaru czcionki dla całego dokumentu */
+html {
+    font-size: 100%; /* Ustawia bazowy rozmiar czcionki na 16px, jeśli nie jest zmienione przez inne style */
+}
+  
+/* Zapewnienie, że wszystkie elementy dziedziczą bazowy rozmiar czcionki */
+body, .content, .content p, .content ul, .content ol, .content ul li, .content ol li {
+    font-size: 1.2rem;
+}
+
+/* Specyficzne ustawienie dla list, aby były nieco większe niż inne elementy */
+.content ul li, .content ol li {
+    font-size: 1.2rem; /* Ustawia rozmiar czcionki dla list na 120% bazowego rozmiaru */
+}
+  
