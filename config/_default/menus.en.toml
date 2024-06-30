@@ -6,11 +6,6 @@ pageRef = "/program"
 weight = 1
 
 [[footer]]
-name = "Projekty"
-pageRef = "/10-10"
-weight = 1
-
-[[footer]]
 name = "Polityka prywatności"
 pageRef = "/privacy-policy"
 weight = 3

@@ -7,13 +7,18 @@ description: ""
 # save as draft
 draft: false
 ---
-[Prace w toku]
 #### Wizja
    - Tworzenie społeczności szkolnej, która wspiera ciągły rozwój uczniów, nauczycieli i rodziców, przekształcając szkołę w miejsce, które nie tylko edukuje, ale również łączy i rozwija całą społeczność.
 
 #### Misja
    - Promowanie samodzielności, kreatywności, wewnętrznej motywacji oraz umiejętności współpracy, ciągły rozwój kompetencji pedagogicznych i wychowawczych wśród rodziców i nauczycieli.
-   - Promowanie współczesnych trendów w pedagogice: Social and Emotional Learning (SEL), Project-Based Learning (PBL),  Universal Design for Learning (UDL), Collaborative Learning (CL), STEAM (ang. Science, Technology, Engineering, Art and Mathematics), 21st Century Skills.
+   - Promowanie współczesnych trendów w pedagogice: 
+      - Social and Emotional Learning (SEL), 
+      - Project-Based Learning (PBL),  
+      - Universal Design for Learning (UDL), 
+      - Collaborative Learning (CL), 
+      - STEAM (ang. Science, Technology, Engineering, Art and Mathematics), 
+      - 21st Century Skills.
 
 #### Wartości
    - Współpraca, kreatywność, samodzielność, uważność, wsparcie społeczne.
