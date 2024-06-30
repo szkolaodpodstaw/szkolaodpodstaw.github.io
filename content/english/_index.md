@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Chcemy zrozumieć współczesną pedagogikę."
-  content: "**Szkoła od podstaw** to inicjatywa rodziców inspirowana sytuacją w nowej szkole w Warszawie."
+  title: "Tworzymy społeczność szkolną."
+  content: "**Szkoła od podstaw** to inicjatywa rodziców w nowej szkole w Warszawie."
   image: "/images/banner.png"
   button:
     enable: false
@@ -11,52 +11,4 @@ banner:
 
 # Features
 features:
-  - title: "Co właściwie chcemy zrobić?"
-    image: "/images/service-faq.png"
-    content: "Chcemy rozmawiać o **współczesnej wizji szkoły i wychowania**."
-    bulletpoints:
-      - "**Rozmawiać?** Tak, rozmowa na ten temat to wyzwanie, ale chcemy spróbować.:speech_balloon:"
-      - "**Współczesnej?** Takiej, do jakiej aktualnie skłania się większość ekspertów.:superhero_woman::superhero_man:"
-      - "**Po co?** Żeby wszyscy w szkole lepiej pracowali jako zespół.:handshake:"
-    button:
-      enable: false
-      label: "Wizja 0.1"
-      link: "/vision01"
-
-  - title: "Jak to zrobimy?"
-    image: "/images/service-how.png"
-    content: "Chcemy przekładać język ekspertów na praktykę."
-    bulletpoints:
-      - "**Pokażemy scenki:** Krótkie historie z życia.:clapper:"
-      - "**Porozmawiamy:** Omówimy scenki w małych grupach.:thinking:"
-      - "**Włączymy ekspertów:** Podsumujemy dyskusje, zbierzemy reakcje i przygotujemy następną iterację.:mega::thumbsup::arrows_counterclockwise:"
-
-    button:
-      enable: false
-      enable: false
-      label: "Rekrutacja"
-      link: "/hiring"
-
-  - title: "Przykład"
-    image: "/images/service-example.png"
-    content: "Na wywiadówce nauczyciel tłumaczy rodzicom, dlaczego nie chwali uczniów, odwołując się do książki **Współczesna Pedagogika**."
-    bulletpoints:
-      - "Czas jest ograniczony.:hourglass:"
-      - "Bez uzgodnienia podstaw rodzice czują się zdezorientowani.:confused:"
-      - "Sytuacja może prowadzić do napięć.:unamused::confounded:"
-    button:
-      enable: false
-      label: ""
-      link: ""
-  - title: "Czym się kierujemy?"
-    image: "/images/service-rules.png"
-    content: ""
-    bulletpoints:
-      - "Opieramy działania na **aktualnym konsensusie naukowym**:blue_book: i realiach życia."
-      - "Akceptujemy emocje:broken_heart:, unikając pesymizmu, narzekania i pretensji.:weary:"
-      - "Zachowujemy zdolność do śmiechu z własnej osoby.:face_with_hand_over_mouth:"
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
