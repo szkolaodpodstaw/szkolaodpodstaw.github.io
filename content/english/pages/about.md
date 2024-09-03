@@ -5,25 +5,26 @@ meta_title: "Dołącz do naszego wyzwania!"
 # meta description
 description: "This is meta description"
 # save as draft
-draft: true
+draft: false
 ---
-## Tło projektu
+## Cześć, tu Stoigniew!
 
-Wszystko zaczęło się, kiedy po radosnym czasie przedszkola moje dzieci poszły do szkoły. Ich entuzjazm do nauki gasł w oczach.:broken_heart:
+Jeśli to czytasz, to są duże szanse, że jesteśmy częścią społeczności szkolnej (lokalnej lub tej w szerszym rozumieniu). Jeśli jeszcze się nie znamy, comiesięczny marszobieg będzie świetną okazją, aby się spotkać.
 
-Wtedy nie potrafiłem nazwać sedna problemu, ale ten wstrząs obudził moje zainteresowanie. Dziś, po kilku latach, widzę, jak ciągle przybywa ekspertów nazywających problem i wskazujących kierunek potrzebnych zmian.:arrow_right: 
+## Co robię  
 
-Pomysł powstał w związku z sytuacją w Szkole Podstawowej nr 396 w Warszawie. Trafialiśmy na wspaniałych nauczycieli, ale ogólna sytuacja w szkole stopniowo się pogarszała.:sos: W krytycznym momencie, dwa lata po otwarciu, szkoła została bez dyrektora, a urząd miasta uruchomił program **Szkoła od Podstaw**. Program podkreśla potrzebę poprawy komunikacji, integracji rady pedagogicznej:woman_teacher::man_teacher:, społeczności uczniowskiej:girl::boy: oraz opracowania wizji szkoły. Zaleca również przeprowadzenie szkoleń dydaktycznych i wychowawczych dla nauczycieli, ustalenie zasad postępowania w przypadku roszczeń rodziców z pominięciem ustalonej procedury, oraz zapewnienie nauczycielom ochrony prawnej.:angry::shield::woman_teacher::man_teacher:
+Poszukuję odpowiedzi na proste pytanie: **„Co mogę zrobić na rzecz szkoły?”**
 
-Czy możemy pójść o krok dalej? Nie tylko chronić nauczycieli przed rodzicami, lecz także zaangażować rodziców w rozwiązanie problemu? Tylko jak zintegrować ponad tysiąc osób wokół wspólnej wizji szkoły? 
+Pierwszy sposób, w jaki staram się odpowiedzieć na to pytanie, jest prosty: czytam i rozmawiam. Szukam koncepcji i praktyk, które zyskują szerokie poparcie. Potem dzielę się tym, czego się dowiedziałem.
 
-Kiedy moje pokolenie chodziło do szkoły podejście do wychowania i nauki było ustalone i jasne dla wszystkich. Obecnie jesteśmy w trakcie transformacji powodującej wiele nieporozumień i napięć.:unamused::confounded: Nawet jeśli w teorii zgadzamy się, że chcemy wychować samodzielne i kreatywne pokolenie, to w praktyce często działamy tak, jak gdybyśmy chcieli osiągnąć odwrotny efekt.:running_man::running_woman::arrow_right: 
+Drugim sposobem jest zastosowanie tej wiedzy w praktyce, poprzez konkretne działania. Jak możemy tworzyć środowisko, które wspiera rozwój całej społeczności szkolnej – rodziców, uczniów i nauczycieli? 
 
-A gdyby wykorzystać media społecznościowe? 
-Mamy problem ze szkołą, ale także z mediami społecznościowymi. Mimo pewnej rezerwy wciąż ich używamy. Nawet jeśli sami się wycofujemy, one wciąż wpływają na nasze otoczenie. Chcąc nie chcąc, dajemy dzieciom smartfony z WhatsApp już w trzeciej klasie, aby nie były wykluczone. Z jednej strony dysponujemy możliwościami niedostępnymi dla naszych rodziców, a z drugiej strony często czujemy się bezsilni. Jakbyśmy nie mieli wpływu na to, co się dzieje. Liczymy, że zmieni się system: w szkole czy w smartfonie. A może ta bezsilność jest w naszej głowie? W końcu wychowywano nas, aby nie wychodzić poza ustalone ramy, zwracać uwagę na to, jak nas ocenią, i że nieudana próba jest karana złą oceną.:white_check_mark::x: 
+## Dlaczego? 
 
-Co gdybyśmy zaczęli rozmawiać o współczesnej wizji szkoły i wychowania, wykorzystując do tego media społecznościowe? Co gdybyśmy przełożyli język ekspertów na praktykę? Co gdybyśmy zaangażowali się w wypracowanie konsensusu naukowego i praktycznego? Czy taki projekt mógłby pomóc zintegrować nowe szkoły, jak Szkoła 396? Czy miałbym realny wpływ? Aby się dowiedzieć, trzeba spróbować.:seedling: 
+Bo działając na rzecz społeczności, lepiej się w niej poczujemy, zwłaszcza teraz, gdy szkoła przechodzi trudną transformację, a nowa formuła jeszcze się nie ukształtowała.
+
+> Kiedyś nauczyciele i rodzice uczyli według standardowych wzorców, teraz ważna staje się autonomia nauczycieli i uczniów. Chodzi o to, byśmy uczyli się samodzielnie rozwijać, myśleć krytycznie, rozwiązywać problemy i tworzyć coś nowego. 
+
+Do działania skłoniła mnie sytuacja Szkoły Podstawowej 396 w Warszawie. Po dwóch latach szkoła znalazła się w trudnej sytuacji a miasto uruchomiło program ratunkowy Szkoła od podstaw. To ważny krok, ale prawdziwa zmiana zależy od nas. Podstawą szkoły jest jej społeczność. Jeśli chcemy nowej jakości, musimy próbować nowych rozwiązań.
 
 > Nie zawsze zdobywamy to, czego chcemy, ale próbując odnajdujemy to, czego potrzebujemy.
-
-Stoigniew Sztank, Rodzic

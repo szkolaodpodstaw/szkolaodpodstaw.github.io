@@ -1,11 +1,18 @@
 ############# English navigation ##############
 
-[[footer]]
+# main menu
+
+[[main]]
 name = "Program"
 pageRef = "/program"
 weight = 1
 
+[[main]]
+name = "Newsletter"
+pageRef = "/newsletter"
+weight = 2
+
 [[footer]]
 name = "Polityka prywatności"
 pageRef = "/privacy-policy"
-weight = 3
+weight = 1

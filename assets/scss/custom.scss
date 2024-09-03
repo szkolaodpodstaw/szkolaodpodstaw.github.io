@@ -18,3 +18,6 @@ body, .content, .content p, .content ul, .content ol, .content ul li, .content o
     font-size: 1.2rem; /* Ustawia rozmiar czcionki dla list na 120% bazowego rozmiaru */
 }
   
+p a {
+    text-decoration: underline;
+}

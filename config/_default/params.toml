@@ -38,8 +38,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "kontakt"
-link = "contact"
+label = "Tło"
+link = "about"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
