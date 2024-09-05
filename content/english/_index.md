@@ -19,9 +19,9 @@ features:
       - "Ruszaj się."
       - "Spotykaj innych."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Keep moving"
+      link: "/marszobieg"
   - title: "Bookcrossing"
     image: "/images/bookcrossing.png"
     content: "Dlaczego? Aby więcej czytać i rozmawiać o współczesnej wizji wychowania."
