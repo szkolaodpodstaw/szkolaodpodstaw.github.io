@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="content">
+          {{ .Content | emojify }}
+        </div>
+        <!-- <div class="row items-start justify-between">
+            <div class="lg:col-4 flex items-center">
+              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" true "Twitter" false "Email" false "Reddit" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
+            </div>
+          </div>
+      </div> -->
+    </div>
+  </div>
+</section>
+{{ end }}

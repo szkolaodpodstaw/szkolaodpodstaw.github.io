@@ -12,13 +12,16 @@ draft: false
 
 #### Misja
    - Promowanie samodzielności, kreatywności, wewnętrznej motywacji oraz umiejętności współpracy, ciągły rozwój kompetencji pedagogicznych i wychowawczych wśród rodziców i nauczycieli.
-   - Promowanie współczesnych trendów w pedagogice: 
+   - Promowanie współczesnych, opartych na konsensusie naukowym oraz zyskujących szerokie uznanie podejść w edukacji, wychowaniu i rozwoju społecznym: 
       - Social and Emotional Learning (SEL), 
       - Project-Based Learning (PBL),  
       - Universal Design for Learning (UDL), 
       - Collaborative Learning (CL), 
       - STEAM (ang. Science, Technology, Engineering, Art and Mathematics), 
-      - 21st Century Skills.
+      - Citizen Science,
+      - 21st Century Skills,
+      - Corporate Social Responsibility (CSR),
+      - Joy of Missing Out (JOMO).
 
 #### Wartości
    - Współpraca, kreatywność, samodzielność, uważność, wsparcie społeczne.
@@ -27,20 +30,19 @@ draft: false
    - Aktywne włączenie rodziców i lokalnej społeczności w życie szkoły, rozwój osobisty i społeczny członków społeczności, edukacja międzypokoleniowa.
 
 #### Grupa docelowa
-   - Uczniowie, nauczyciele, rodzice, lokalna społeczność.
+   - Rodzice, uczniowie, nauczyciele, lokalna społeczność.
 
 #### Kanały komunikacji
-   - Strona internetowa projektu z aktualnościami i blogiem edukacyjnym.
-   - Media społecznościowe: Facebook, Instagram, YouTube, WhatsApp dla bieżących relacji i inspiracji.
-   - Grupa dyskusyjna na Discord dla bezpośredniej komunikacji i współpracy.
+   - Strona internetowa projektu z newsletterem.
+   - Media społecznościowe: Facebook, Instagram, YouTube dla kampanii informacyjnych.
+   - Grupy WhatsApp dedykowane do komunikacji i wspólnej organizacji działań.
 
-#### Program 
-   - Program [10 projektów na 10 miesięcy](/10-10)
-   - Wymiana doświadczeń międzypokoleniowych, warsztaty hybrydowe (online i offline) dla rodziców, programy rozwoju kompetencji emocjonalnych, intelektualnych i społecznych, inicjatywy promujące czytelnictwo i naukę przez zabawę (np. [Liga Lego](https://fll.edu.pl/)).
+#### Działania
+   - Program [10x10: 10 działań na 10 miesięcy](/10x10): Marszobieg, Bookcrossing, Liga Lego, Citizen Science, FabLab, Warsztaty, Podcast, System Odznak, Big Fat Fluffy (Odkrywaj Mózg), Joy of Missing Out (JOMO).
 
-#### Plan wdrożenia
-   - Lipiec: Spotkanie z dyrekcją szkoły i Warszawskim Centrum Innowacji Edukacyjno-Społecznym (WCIES).
-   - Sierpień: Uruchomienie kanałów komunikacyjnych.
-   - Wrzesień: Start pierwszych projektów, z kolejnymi projektami wprowadzanymi w kolejnych miesiącach.
+#### Metoda działania
+   - Inicjatywa społeczna: działamy bez formalnych struktur, skupiając się na współpracy i zaangażowaniu rodziców.
+   - Metoda organiczna: początkowo działamy w grupie znajomych rodziców, a następnie, w zależności od postępów, sukcesywnie rozszerzamy zasięg działań.
+
 #### Finansowanie
    - Składki rodziców, współpraca z firmami w ramach CSR, współpraca z uczelniami i instytutami, granty, dotacje oraz crowdfunding.
