@@ -16,7 +16,7 @@ Niniejsza Polityka prywatności określa zasady przetwarzania i ochrony danych o
 
 #### 2. Administrator danych
 
-Administratorem danych osobowych w ramach projektu "Szkoła od podstaw" jest zespół koordynujący projekt, dostępny pod adresem email: szkolaodpodstaw@gmail.com.
+Administratorem danych osobowych w ramach projektu "Szkoła od podstaw" jest zespół koordynujący projekt, dostępny pod adresem email: projekt@szkolaodpodstaw.pl.
 
 #### 3. Zakres zbieranych danych
 
@@ -26,8 +26,8 @@ Zbieramy wyłącznie adresy e-mail przekazane dobrowolnie przez Użytkowników o
 
 Dane osobowe przetwarzane są w celu:
 
-Umożliwienia kontaktu z Użytkownikami
-Przesyłania informacji dotyczących projektu, w tym informacji promocyjnych i marketingowych
+- Umożliwienia kontaktu z Użytkownikami
+- Przesyłania informacji dotyczących projektu, w tym informacji promocyjnych.
 
 #### 5. Podstawa prawna przetwarzania danych
 
@@ -62,4 +62,4 @@ Zastrzegamy sobie prawo do wprowadzania zmian w Polityce prywatności. O wszelki
 
 #### 11. Kontakt
 
-W przypadku pytań dotyczących Polityki prywatności, prosimy o kontakt na adres e-mail: szkolaodpodstaw@gmail.com.
+W przypadku pytań dotyczących Polityki prywatności, prosimy o kontakt na adres e-mail: projekt@szkolaodpodstaw.pl.
