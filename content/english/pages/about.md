@@ -28,3 +28,9 @@ Bo działając na rzecz społeczności, lepiej się w niej poczujemy, zwłaszcza
 Do działania skłoniła mnie sytuacja Szkoły Podstawowej 396 w Warszawie. Po dwóch latach szkoła znalazła się w trudnej sytuacji a miasto uruchomiło program ratunkowy Szkoła od podstaw. To ważny krok, ale prawdziwa zmiana zależy od nas. Podstawą szkoły jest jej społeczność. Jeśli chcemy nowej jakości, musimy próbować nowych rozwiązań.
 
 > Nie zawsze zdobywamy to, czego chcemy, ale próbując odnajdujemy to, czego potrzebujemy.
+
+## Podziękowania
+
+Dziękuję wszystkim, z którymi mogłem rozmawiać i wymieniać pomysły. Szczególne podziękowania dla Ani Ślubowskiej i grupy znajomych rodziców z SP 396, z którymi współpracuję.
+
+Stoigniew Sztank
