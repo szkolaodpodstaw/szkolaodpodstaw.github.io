@@ -107,9 +107,9 @@ features:
       - "Myśl o myśleniu."
       - "Żyj szczęśliwiej."
     button:
-      enable: false
-      label: ""
-      link: ""      
+      enable: true
+      label: "Odrkywaj mózg"
+      link: "/bff"      
   - title: "Joy of Missing Out (JOMO)"
     image: "/images/jomo.png"
     content: "Dlaczego? Bo za dużo naszej uwagi zajmują rzeczy bez większego znaczenia."
@@ -118,7 +118,7 @@ features:
       - "Odzyskuj uważność."
       - "Bądź obecny."
     button:
-      enable: false
-      label: ""
-      link: ""      
+      enable: true
+      label: "Ograniczaj rozproszenia"
+      link: "/jomo"      
 ---

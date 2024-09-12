@@ -9,7 +9,7 @@ draft: false
 ---
 ## Cześć, tu Stoigniew!
 
-Jeśli to czytasz, to są duże szanse, że jesteśmy częścią społeczności szkolnej (lokalnej lub tej w szerszym rozumieniu). Jeśli jeszcze się nie znamy, comiesięczny marszobieg będzie świetną okazją, aby się spotkać.
+Jeśli to czytasz, to są duże szanse, że jesteśmy częścią społeczności szkolnej (lokalnej lub tej w szerszym rozumieniu). Jeśli jeszcze się nie znamy, comiesięczny [marszobieg](/marszobieg) będzie świetną okazją, aby się spotkać.
 
 ## Co robię  
 
@@ -17,7 +17,7 @@ Poszukuję odpowiedzi na proste pytanie: **„Co mogę zrobić na rzecz szkoły?
 
 Pierwszy sposób, w jaki staram się odpowiedzieć na to pytanie, jest prosty: czytam i rozmawiam. Szukam koncepcji i praktyk, które zyskują szerokie poparcie. Potem dzielę się tym, czego się dowiedziałem.
 
-Drugim sposobem jest zastosowanie tej wiedzy w praktyce, poprzez konkretne działania. Jak możemy tworzyć środowisko, które wspiera rozwój całej społeczności szkolnej – rodziców, uczniów i nauczycieli? 
+Drugim sposobem jest zastosowanie tej wiedzy w praktyce, poprzez konkretne [działania](/10x10). Jak możemy tworzyć środowisko, które wspiera rozwój całej społeczności szkolnej – rodziców, uczniów i nauczycieli? 
 
 ## Dlaczego? 
 
