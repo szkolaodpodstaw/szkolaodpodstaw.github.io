@@ -1,9 +1,9 @@
 ---
-title: "Dołącz do naszego wyzwania!"
+title: "Dołącz do naszego eksperymentu!"
 # meta title
-meta_title: "Dołącz do naszego wyzwania!"
+meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozproszeń"
 # save as draft
 draft: false
 ---
