@@ -3,7 +3,7 @@ title: "Dołącz do naszego eksperymentu!"
 # meta title
 meta_title: ""
 # meta description
-description: "Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozproszeń"
+description: "WhatsApp w duchu JOMO – bez zbędnych rozproszeń"
 # save as draft
 draft: false
 ---
