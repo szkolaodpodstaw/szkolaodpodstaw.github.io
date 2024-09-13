@@ -1,19 +1,9 @@
 {
-  "main": [
+  "main": [    
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/people/Szko%C5%82a-od-podstaw/61559999446413/"
-    },
-    {
-      "name": "youtube",
-      "icon": "fab fa-youtube",
-      "link": "https://www.youtube.com/@Szkolaodpodstaw"
-    },
-    {
-      "name": "whatsapp",
-      "icon": "fab fa-whatsapp",
-      "link": "https://www.whatsapp.com/channel/0029VabprDN90x34yKC3vF30"
+      "name": "groups",
+      "icon": "fa-solid fa-people-group",
+      "link": "/groups"
     }
   ]
 }
