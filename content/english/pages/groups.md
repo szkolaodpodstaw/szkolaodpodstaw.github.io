@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp i Facebook bez zbędnych rozproszeń - w stylu JOMO"
+title: "Media społecznościowe bez zbędnych rozproszeń - w stylu JOMO"
 # meta title
 meta_title: ""
 # meta description
@@ -13,7 +13,7 @@ Chcę spróbować wykorzystać media społecznościowe w inny sposób – bez zb
 ## Zasady eksperymentu
 
 ### 1. Wysyłam w określonym czasie:
-* Wszystkie grupy: piątek 16:00 – 18:00
+* Domyślnie: piątek 16:00 – 18:00
 * Marszobieg: niedziela 18:00 – 19:00
 
 ### 2. Rozmawiam na temat:
