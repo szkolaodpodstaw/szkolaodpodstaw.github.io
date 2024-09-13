@@ -22,6 +22,17 @@ features:
       enable: true
       label: "Keep moving"
       link: "/marszobieg"
+  - title: "FabLab"
+    image: "/images/fablab.png"
+    content: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
+    bulletpoints:
+      - "Próbuj."
+      - "Ucz się na błędach."
+      - "Współpracuj (bez względu na wiek)"
+    button:
+      enable: true
+      label: "Próbuj"
+      link: "/fablab"      
   - title: "Bookcrossing"
     image: "/images/bookcrossing.png"
     content: "Dlaczego? Aby więcej czytać i rozmawiać o współczesnej wizji wychowania."
@@ -51,17 +62,6 @@ features:
       - "Obserwuj otoczenie."
       - "Ucz się metody naukowej."
       - "Działaj wspólnie."
-    button:
-      enable: false
-      label: ""
-      link: ""      
-  - title: "FabLab"
-    image: "/images/fablab.png"
-    content: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
-    bulletpoints:
-      - "Próbuj."
-      - "Ucz się na błędach."
-      - "Współpracuj (bez względu na wiek)"
     button:
       enable: false
       label: ""
