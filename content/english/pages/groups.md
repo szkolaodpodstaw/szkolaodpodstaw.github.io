@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp w duchu JOMO – bez zbędnych rozproszeń"
+title: "WhatsApp bez zbędnych rozproszeń - w stylu JOMO"
 # meta title
 meta_title: ""
 # meta description
@@ -8,7 +8,7 @@ description: "Dołącz do eksperymentu!"
 draft: false
 ---
 ## Masz dość ciągłych notyfikacji? Ja też.
-Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozproszeń, w duchu [JOMO](/jomo). Jeśli chcesz dołączyć do eksperymentu, zapraszam.
+Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozproszeń, w stylu [JOMO](/jomo). Jeśli chcesz dołączyć do eksperymentu, zapraszam.
 
 ## Zasady eksperymentu
 
