@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp bez zbędnych rozproszeń - w stylu JOMO"
+title: "WhatsApp i Facebook bez zbędnych rozproszeń - w stylu JOMO"
 # meta title
 meta_title: ""
 # meta description
@@ -8,7 +8,7 @@ description: "Dołącz do eksperymentu!"
 draft: false
 ---
 ## Masz dość ciągłych notyfikacji? Ja też.
-Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozproszeń, w stylu [JOMO](/jomo). Jeśli chcesz dołączyć do eksperymentu, zapraszam.
+Chcę spróbować wykorzystać media społecznościowe w inny sposób – bez zbędnych rozproszeń, w stylu [JOMO](/jomo). Jeśli chcesz dołączyć do eksperymentu, zapraszam.
 
 ## Zasady eksperymentu
 
@@ -25,6 +25,7 @@ Chcę spróbować wykorzystać WhatsApp w inny sposób – bez zbędnych rozpros
 * Skupiam się na tym, co mogę zrobić, unikam pesymizmu i krytyki.
 * Zachowuję dystans i poczucie humoru.
 
-Grupy uruchamiamy na razie w trybie zaproszeń indywidualnych. Dołącz do [newslettera](/newsletter), aby być w kontakcie. Możesz spróbować podobnego podejścia na każdej platformie. Jeśli się zdecydujesz, podziel się wynikami!
+Grupy uruchamiamy na razie w trybie zaproszeń. Dołącz do [newslettera](/newsletter), aby być w kontakcie. 
 
-{{<cta>}}
+### DIY
+Możesz spróbować podobnego podejścia na każdej platformie. Jeśli się zdecydujesz, podziel się wynikami!
