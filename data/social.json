@@ -1,9 +1,9 @@
 {
-  "main": [    
+  "main": [
     {
-      "name": "groups",
-      "icon": "fa-solid fa-people-group",
-      "link": "/groups"
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/szkolaodpodstaw"
     }
   ]
 }
