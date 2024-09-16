@@ -14,10 +14,11 @@ Chcę spróbować wykorzystać grupy społecznościowe w inny sposób – bez zb
 
 ### 1. Wysyłam w określonym czasie
 * Piątek 16:00 – 19:00
+* W przypadku konkretnych wydarzeń mogą powstać grupy z własnym czasem aktywności. 
 
 ### 2. Rozmawiam na temat
 * Każda grupa ma swój temat, więc trzymam się go, unikając rozproszeń.
-* Używam znikających wiadomości (np. WhatsApp domyślnie 7 dni).
+* Stosuję ograniczenie czasu ważności wiadomości oraz usuwam lub przenoszę treści nie na temat.
 
 ### 3. Trzymam się 3 zasad
 * Działam w oparciu o naukę i uniwersalne wartości, bez polityki.
