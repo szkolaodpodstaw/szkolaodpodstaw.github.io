@@ -14,7 +14,6 @@ Chcę spróbować wykorzystać grupy społecznościowe w inny sposób – bez zb
 
 ### 1. Wysyłam w określonym czasie
 * Piątek 16:00 – 19:00
-* Niedziela 18:00 – 19:00
 
 ### 2. Rozmawiam na temat
 * Każda grupa ma swój temat, więc trzymam się go, unikając rozproszeń.
