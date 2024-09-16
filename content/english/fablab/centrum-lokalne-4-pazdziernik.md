@@ -3,7 +3,7 @@ title: "Marszobieg"
 # meta title
 meta_title: ""
 # meta description
-description: "Dlaczego? Bo za dużo siedzimy (w szkole, w pracy, w domu) i za mało się znamy."
+description: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
 # save as draft
 draft: false
 ---
