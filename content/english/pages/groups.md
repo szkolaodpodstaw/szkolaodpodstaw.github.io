@@ -10,7 +10,7 @@ draft: false
 ## Masz dość ciągłych notyfikacji?
 Chcę spróbować wykorzystać grupy społecznościowe w inny sposób – bez zbędnych rozproszeń, w stylu [JOMO](/jomo). Jeśli chcesz dołączyć do eksperymentu, zapraszam.
 
-## Zasady eksperymentu
+## Zasady
 
 ### 1. Wysyłam w określonym czasie
 * Piątek 16:00 – 19:00

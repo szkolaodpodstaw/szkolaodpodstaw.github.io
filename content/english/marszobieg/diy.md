@@ -8,7 +8,7 @@ description: "Dlaczego? Bo za dużo siedzimy (w szkole, w pracy, w domu) i za ma
 draft: false
 ---
 
-{{< image src="images/invite-marszobieg-DIY.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
+{{< image src="images/diy-marszobieg.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
 
 ## Za dużo siedzimy i za mało się znamy. Jak to zmienić?
 

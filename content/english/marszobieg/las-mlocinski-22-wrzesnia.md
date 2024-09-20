@@ -14,7 +14,7 @@ draft: false
 </a>
 
 * Dołącz w dowolnym momencie między 15:00 a 18:00. 
-* Zaloguj się w punkcie piknikowym: na terenie pomiędzy placem zabaw a startem tras (lokalizacja: [pinezka](https://maps.app.goo.gl/fpuqJagwfSYKg3aG9)).
-* Pokonaj oznaczoną pętlę 2,5 km lub 3,5 km tyle razy, ile chcesz, dostosowując tempo (spacerem, marszem lub biegiem).
-* Dopisz swoje kilometry do wspólnej listy.
-* Weź ze sobą coś do picia i przekąskę.
+* Zaloguj się w punkcie piknikowym: na terenie pomiędzy placem zabaw a startem tras, lokalizacja: [pinezka](https://maps.app.goo.gl/fpuqJagwfSYKg3aG9), między godz. 15:00 a 18:00.
+* Pokonaj oznaczoną pętlę 2,5 km lub 3,5 km tyle razy, ile chcesz: spacerem, marszem lub biegiem.
+* Dopisz kilometry do wspólnej listy.
+
