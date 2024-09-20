@@ -15,7 +15,7 @@ draft: false
 Marszobieg to prosty sposób na wspólne spędzanie czasu na świeżym powietrzu, poznawanie się i dbanie o zdrowie – fizyczne i [psychiczne](/bff/wendy-suzuki). Inspiracją był Marsz/Bieg Rodzinny 24h (więcej o tym w pierwszym numerze [newslettera](/newsletter)).
 
 ### Jak to działa?
-To proste: spotykamy się i razem pokonujemy kilometry – na własnych zasadach.
+To proste: spotykamy się i razem pokonujemy kilometry.
 
 * Spotykamy się w wyznaczonym miejscu i czasie. Najlepiej działa pętla oraz określony zakres czasowy, aby każdy mógł dołączyć w swoim tempie i w dogodnym momencie.
 * Marsz, bieg czy spacer? Pokonujemy trasę we własnym tempie.

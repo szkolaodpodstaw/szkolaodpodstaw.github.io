@@ -15,7 +15,7 @@ draft: false
   {{< image src="images/invite-marszobieg-22-wrzesien.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
 </a>
 
-### Lub 
+### lub 
 <a href="/marszobieg/diy">
     {{< image src="images/diy-marszobieg.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 </a>
