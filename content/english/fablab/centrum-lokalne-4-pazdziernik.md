@@ -3,7 +3,7 @@ title: "Fablab"
 # meta title
 meta_title: ""
 # meta description
-description: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
+description: "O koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL."
 # save as draft
 draft: false
 ---
