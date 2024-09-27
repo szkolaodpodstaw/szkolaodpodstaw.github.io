@@ -14,7 +14,7 @@ draft: false
 To proste: spotykamy się i razem pokonujemy kilometry.
 
 1. Stwórz zespół – spotykamy się w gronie rodziców, rodzin, znajomych.
-2. Spaceruj lub biegaj razem – chodzi o ruch i wspólne spędzanie czas (dobrze sprawdza sie pętla).
+2. Spaceruj lub biegaj razem – chodzi o ruch i wspólne spędzanie czas (dobrze sprawdza się pętla z punktem piknikowym).
 3. Rejestruj wspólne kilometry.
 
 
