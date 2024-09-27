@@ -15,7 +15,9 @@ Jeśli to czytasz, to są duże szanse, że jesteśmy częścią społeczności 
 
 Poszukuję odpowiedzi na proste pytanie: **„Co mogę zrobić na rzecz szkoły?”**
 
-Pierwszy sposób, w jaki staram się odpowiedzieć na to pytanie, jest prosty: czytam i rozmawiam. Szukam koncepcji i praktyk, które zyskują szerokie poparcie. Potem dzielę się tym, czego się dowiedziałem.
+Pierwszy sposób, w jaki staram się odpowiedzieć na to pytanie, jest prosty: czytam i rozmawiam. Szukam koncepcji i praktyk, które zyskują szerokie poparcie. Potem dzielę się tym, czego się dowiedziałem, na przykład poprzez [newsletter](/newsletter).
+
+{{<cta>}}
 
 Drugim sposobem jest zastosowanie tej wiedzy w praktyce, poprzez konkretne [działania](/10x10). Jak możemy tworzyć środowisko, które wspiera rozwój całej społeczności szkolnej – rodziców, uczniów i nauczycieli? 
 
@@ -26,8 +28,6 @@ Bo działając na rzecz społeczności, lepiej się w niej poczujemy, zwłaszcza
 > Kiedyś nauczyciele i rodzice uczyli według standardowych wzorców, teraz ważna staje się autonomia nauczycieli i uczniów. Chodzi o to, byśmy uczyli się samodzielnie rozwijać, myśleć krytycznie, rozwiązywać problemy i tworzyć coś nowego. 
 
 Do działania skłoniła mnie sytuacja Szkoły Podstawowej 396 w Warszawie. Po dwóch latach szkoła znalazła się w trudnej sytuacji a miasto uruchomiło program ratunkowy Szkoła od podstaw. To ważny krok, ale prawdziwa zmiana zależy od nas. Podstawą szkoły jest jej społeczność. Jeśli chcemy nowej jakości, musimy próbować nowych rzeczy.
-
-> Nie zawsze zdobywamy to, czego chcemy, ale próbując odnajdujemy to, czego potrzebujemy.
 
 ## Podziękowania
 

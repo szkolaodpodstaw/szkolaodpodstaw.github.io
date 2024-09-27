@@ -10,12 +10,22 @@ draft: false
 
 ## Marszobieg
 
-### Dołącz do nas
-<a href="/marszobieg/las-mlocinski-22-wrzesnia">
-  {{< image src="images/invite-marszobieg-22-wrzesien.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
-</a>
+Dlaczego? Bo za dużo siedzimy (w szkole, w pracy, w domu) i za mało się znamy. Więcej o tym w pierwszym numerze [newslettera](/newsletter).
 
-### lub 
+### Sezon 2024/25
+---
+
+#### Wyniki Zespołowe
+
+| **Zespół** | **Najdłuższy Dystans** |
+| :--- | :--- |
+| Na Ostrzu | **71 km** :medal: <br> 13os / 21 wrzesień |
+| Na Ostrzu | **50 km** <br> 10os / 1 wrzesień |
+
+#### Łączny dystans: 121 km :medal:
+* zsumowane kilometry wszystkich marszobiegów
+
+### Zorganizuj zespół
 <a href="/marszobieg/diy">
     {{< image src="images/diy-marszobieg.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 </a>
