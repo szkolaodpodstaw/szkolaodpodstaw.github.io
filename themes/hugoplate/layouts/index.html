@@ -34,6 +34,37 @@
   {{ end }}
   <!-- /Banner -->
 
+  {{ with .Params.actions }}
+    <section class="section pt-14">
+      <div class="container">      
+        <div class="row">
+          <div class="md:col-6">
+            <h2 class="h3 mb-6"> {{ .title | markdownify | emojify }} </h2>
+            <ul>
+              {{ range .events }}
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-calendar absolute left-0 top-1.5"></i>
+                  <span style="background-color: #f4d94c; color: #000000; padding: 0 4px; font-size: 90%;">{{ .time | markdownify | emojify }}</span><br>
+                  <p class="mb-2">
+                    {{ .name | markdownify | emojify }}
+                  </p>  
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+          <!-- Call-to-action po prawej stronie -->
+          <div class="md:col-6">
+            <h2 class="h3 mb-6"> {{ .joinNewsletter | markdownify | emojify }} </h2>
+            {{ partial "call-to-action.html" . }}
+            <p class="mb-2 text-center">
+              {{ .aboutNewsletter | markdownify }}
+            </p> 
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}  
+
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">

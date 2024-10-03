@@ -2,12 +2,25 @@
 # Banner
 banner:
   title: "Wykorzystaj 10 propozycji działania na rzecz społeczności szkolnej"
-  content: "Inicjatywa rodziców zainspirowana sytuacją w nowej szkole w Warszawie: 10 działań [pro-CSR](/csr) na 10 miesięcy."
+  content: "Inicjatywa rodziców: 10 działań [pro-CSR](/csr) na 10 miesięcy 2024/25. Dlaczego? Bo podstawą szkoły jest jej społeczność."
   image: "/images/banner1.png"
   button:
     enable: false
     label: "Tło"
     link: "/about"
+
+# Actions
+actions:
+  title: "Nadchodzące wydarzenia"
+  joinNewsletter: "Newsletter 10:10"
+  aboutNewsletter: "Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
+  events: 
+    - time: "Piątek, 4 paź, godz. 17.00-19.00"
+      name: "Centrum Lokalne [CLŻ](https://zoliborskidomkultury.pl/clz/): O [FabLab](/fablab), koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami [ITWL](https://itwl.pl/). Wstęp wolny.:airplane:"
+    - time: "Niedziela, 20 paź, godz. 15.00-18.00"
+      name: "Planujemy kolejny Marszobieg.:hiking_boot:"
+    - time: "Piątek, 8 lis, godz. 17.00-19.00"
+      name: "Centrum Lokalne [CLŻ](https://zoliborskidomkultury.pl/clz/): [Warsztaty: Współczesna Pedagogika](/warsztaty). Wkrótce rozpoczynamy zapisy.:clapper:"  
 
 # Features
 features:
@@ -66,17 +79,17 @@ features:
       enable: false
       label: ""
       link: ""      
-  - title: "Warsztaty dla Rodziców"
+  - title: "Warsztaty"
     image: "/images/workshops.png"
-    content: "Dlaczego? Aby rozwijać uważność i umiejętności wychowawcze."
+    content: "Dlaczego? Aby wymieniać doświadczenia i lepiej współpracować jako zespół."
     bulletpoints:
       - "Analizuj scenki z życia."
       - "Dyskutuj w małych grupach."
       - "Zapraszaj ekspertów."
     button:
-      enable: false
-      label: ""
-      link: ""      
+      enable: true
+      label: "Zorganiuzuj grupę"
+      link: "/warsztaty"      
   - title: "Podcast"
     image: "/images/podcast.png"
     content: "Dlaczego? Aby łączyć świat dorosłych z edukacją."
