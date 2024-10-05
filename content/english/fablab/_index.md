@@ -9,11 +9,29 @@ draft: false
 ---
 ## FabLab: O co właściwie chodzi? 
 
-Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garaż? Takie miejsca pobudzały wyobraźnię i zachęcały do eksperymentowania — bez oceniania, bez chwalenia. Nie przez przypadek wiele startupów zaczęło się w garażu. Potrzebujemy takich miejsc. Dlatego powstają one na nowo we współczesnych miastach.
+Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż? 
+
+Takie miejsca pobudzały wyobraźnię i zachęcały do eksperymentowania. FabLab to współczesna wersja takich miejsc.
+
+W naszej okolicy (Warszawa): 
+
+* FabLab Wbijaj (przy parku fontann multimedialnych): stolarnia, narzędzia, praca w drewnie.
+* FabLab Orange (Praga Północ): Czego tu nie ma? Od stolarni, przez druk 3D, po elektronikę.
+* FabLab Pobite Gary (Wawer): instrumenty muzyczne, studio nagrań.
+* Hackerspace (ul. Żelazna): programowanie, technologie.
+* Męska Szopa (Wola): współczesna wersja „szopy” z narzędziami.
 
 {{< image src="images/fablab-examples.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
 
-Potrzebujemy przestrzeni, gdzie możemy uczyć się samodzielnego tworzenia nowych rzeczy! Dlaczego to coraz ważniejsze? Bo świat zmienia się coraz szybciej. Metody nauki oparte na wykonywaniu instrukcji już nie wystarczą.
+### Dlaczego FabLaby powstają? 
+
+Bo uwielbiamy tworzyć! Nie potrzebujemy do tego ocen, nagród, a nawet pochwał. To nasz naturalny instynkt. 
+
+Potrzebujemy przestrzeni, gdzie możemy uczyć się samodzielnego tworzenia nowych rzeczy! Dlaczego to jest coraz ważniejsze? Bo świat zmienia się coraz szybciej. Metody nauki oparte na wykonywaniu instrukcji już nie wystarczą.
+
+Wyobrażam sobie szkołę, w której wiele sal jest jak FabLab: techniczna, podróżnicza, teatralna, muzyczna… W takiej szkole mógłbyś uczyć się samodzielnego tworzenia nowych rzeczy (uczyć się, jak się uczyć), spotkać pasjonata (nauczyciela, ucznia, rodzica, a nawet dziadka!) i odkryć swoją pasję.
+
+### Początki mogą być trudne
 
 Początki tworzenia nowych rzeczy mogą być trudne — tym trudniejsze, im bardziej boimy się porażki. Dlatego potrzebujemy przestrzeni, w której nieudana próba jest częścią nauki. 
 

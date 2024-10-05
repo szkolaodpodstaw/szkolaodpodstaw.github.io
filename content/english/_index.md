@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Wykorzystaj 10 propozycji działania na rzecz społeczności szkolnej"
-  content: "Inicjatywa rodziców: 10 działań [pro-CSR](/csr) na 10 miesięcy 2024/25. Dlaczego? Bo podstawą szkoły jest jej społeczność."
+  content: "Inicjatywa rodziców: 10 działań [pro-CSR](/csr) na 10 miesięcy 2024/25."
   image: "/images/banner1.png"
   button:
     enable: false
