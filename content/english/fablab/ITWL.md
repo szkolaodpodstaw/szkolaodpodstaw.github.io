@@ -15,4 +15,4 @@ Podczas pierwszego spotkania z serii [FabLab](/fablab) rozmawialiśmy z naukowca
 
 **Kamil Kowalczyk** – absolwent wydziału MEiL PW, doktor inżynierii mechanicznej w Instytucie Technicznym Wojsk Lotniczych. Pracuje nad rozwojem aparatury oraz oprogramowania systemów monitorowania stanu konstrukcji.
 
-{{< gallery dir="images/gallery-ITWL" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery-itwl" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
