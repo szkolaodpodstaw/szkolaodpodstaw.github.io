@@ -11,17 +11,18 @@ banner:
 
 # Actions
 actions:
-  title: "Nadchodzące wydarzenia"
+  titleUpcoming: "Nadchodzące wydarzenia"
+  titleHighlights: "Relacje"
   joinNewsletter: "Newsletter 10:10"
   aboutNewsletter: "Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
   events: 
-    - time: "Piątek, 4 paź, godz. 17.00-19.00"
-      name: "Centrum Lokalne [CLŻ](https://zoliborskidomkultury.pl/clz/): O [FabLab](/fablab), koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami [ITWL](https://itwl.pl/). Wstęp wolny.:airplane:"
     - time: "Niedziela, 20 paź, godz. 15.00-18.00"
-      name: "Planujemy kolejny Marszobieg.:hiking_boot:"
+      name: "Planujemy kolejny [Marszobieg](/marszobieg).:hiking_boot:"
     - time: "Piątek, 8 lis, godz. 17.00-19.00"
-      name: "Centrum Lokalne [CLŻ](https://zoliborskidomkultury.pl/clz/): [Warsztaty: Współczesna Pedagogika](/warsztaty). Wkrótce rozpoczynamy zapisy.:clapper:"  
-
+      name: "Centrum Lokalne CLŻ: [Warsztaty: Współczesna Pedagogika](/warsztaty). Wkrótce rozpoczynamy zapisy.:clapper:"  
+  highlights: 
+    - time: "Piątek, 4 paź"
+      name: "Centrum Lokalne CLŻ: O [FabLab, koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL](/fablab/itwl).:airplane:"
 # Features
 features:
   - title: "Marszobieg"
