@@ -14,7 +14,7 @@ actions:
   titleUpcoming: "Nadchodzące wydarzenia"
   titleHighlights: "Relacje"
   joinNewsletter: "Newsletter"
-  aboutNewsletter: "Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
+  aboutNewsletter: "Bądź w kontakcie. Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
   events: 
     - time: "Niedziela, 20 paź, godz. 15.00-18.00"
       name: "Planujemy kolejny [Marszobieg](/marszobieg).:hiking_boot:"
