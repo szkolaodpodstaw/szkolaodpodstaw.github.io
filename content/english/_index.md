@@ -49,15 +49,15 @@ features:
       link: "/fablab"      
   - title: "Bookcrossing"
     image: "/images/bookcrossing.png"
-    content: "Dlaczego? Aby więcej czytać i rozmawiać o współczesnej wizji wychowania."
+    content: "Dlaczego? Aby więcej czytać i rozmawiać o wychowaniu."
     bulletpoints:
       - "Czytaj."
       - "Odkrywaj."
       - "Wymieniaj się z innymi."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Czytaj"
+      link: "/bookcrossing"
   - title: "Liga Lego"
     image: "/images/lego.png"
     content: "Dlaczego? Aby rozwijać umiejętności STEAM w praktyce (międzynarodowy program Lego)."
