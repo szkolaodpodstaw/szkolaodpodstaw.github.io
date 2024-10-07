@@ -19,4 +19,9 @@ Warsztaty organizujemy samodzielnie.
 Nie szukamy szybkich rozwiązań, lecz staramy się zrozumieć różne perspektywy. Wartością warsztatów jest poznanie się, wymiana doświadczeń i pogłębiona dyskusja na tematy wychowania.
 
 ### Terminy i zapisy
-Pierwsze spotkanie stacjonarne odbędzie się **8 listopada w godz. 17:00–19:00**. Zapisy będą prowadzone przez [Centrum Lokalne Żoliborz (CLŻ)](https://www.facebook.com/CLZoliborz/) / StrefaZajęć.
+Zapisy będą prowadzone przez [Centrum Lokalne Żoliborz (CLŻ)](https://www.facebook.com/CLZoliborz/) / StrefaZajęć.
+
+Terminy spotkań stacjonarnych:
+
+*  **Piątek, 8 listopad w godz. 17:00–19:00**
+*  **Sobota, 16 listopad w godz. 11:00–13:00**

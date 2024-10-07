@@ -1,7 +1,7 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
+    <section class="section pt-14 pb-0">
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 md:col-9 mb-2 text-center">
@@ -51,9 +51,6 @@
                 </li>
               {{ end }}
             </ul>
-          </div>
-          <!-- Highlights -->
-          <div class="md:col-6">
             <h2 class="h3 mb-6"> {{ .titleHighlights | markdownify | emojify }} </h2>
             <ul>
               {{ range .highlights }}
@@ -67,7 +64,16 @@
               {{ end }}
             </ul>
           </div>
-        </div>
+          <!-- Highlights -->
+          <div class="md:col-6">
+            <h2 class="h3 mb-6"> {{ .joinNewsletter | markdownify | emojify }} </h2>
+            {{ partial "call-to-action.html" . }}
+            <p class="mb-2 text-center">
+              {{ .aboutNewsletter | markdownify }}
+            </p>   
+          </div>
+        </div>                
+        </row>
       </div>
     </section>
   {{ end }}  

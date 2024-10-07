@@ -13,7 +13,7 @@ banner:
 actions:
   titleUpcoming: "Nadchodzące wydarzenia"
   titleHighlights: "Relacje"
-  joinNewsletter: "Newsletter 10:10"
+  joinNewsletter: "Newsletter"
   aboutNewsletter: "Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
   events: 
     - time: "Niedziela, 20 paź, godz. 15.00-18.00"
