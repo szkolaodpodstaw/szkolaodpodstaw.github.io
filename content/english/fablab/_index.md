@@ -30,7 +30,7 @@ Bo uwielbiamy tworzyć! Nie potrzebujemy do tego ocen, nagród, a nawet pochwał
 Potrzebujemy przestrzeni, gdzie możemy uczyć się samodzielnego tworzenia nowych rzeczy! Dlaczego to jest coraz ważniejsze? Bo świat zmienia się coraz szybciej. Metody nauki oparte na wykonywaniu instrukcji już nie wystarczą.
 
 ### Szkoła jak FabLab? 
-Wyobrażam sobie szkołę, w której wiele sal jest jak FabLab: techniczna, podróżnicza, teatralna, muzyczna… W takiej szkole mógłbyś "uczyć się jak się uczyć", spotkać pasjonata (nauczyciela, ucznia, rodzica, a nawet dziadka!) i odkryć swoją pasję.
+Wyobrażam sobie szkołę, w której wiele sal jest jak FabLab: techniczna, podróżnicza, teatralna, muzyczna… W takiej szkole mógłbyś spotkać pasjonata i odkryć swoją pasję.
 
 ### Początki mogą być trudne
 
