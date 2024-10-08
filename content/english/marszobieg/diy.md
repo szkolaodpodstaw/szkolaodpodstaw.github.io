@@ -17,12 +17,11 @@ To proste: spotykamy się i razem pokonujemy kilometry.
 2. Spaceruj lub biegaj razem – chodzi o ruch i wspólne spędzanie czas (dobrze sprawdza się pętla z punktem piknikowym).
 3. Rejestruj wspólne kilometry.
 
-
 ### Jak dołączyć
 
-1. **Dołącz do grupy WhatsApp**, gdzie są przekazywane informacje i rejestrowane wyniki. Link do grupy już wkrótce.
+1. **Odezwij się na** [WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D%252B48724139135%26app%3Dfacebook%26entry_point%3Dpage_cta%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2WLFdxfTWnBIuKYU9Il8pcqeq1yQeFNzHgty5t1dkrCtcBUJaeF51uIsI_aem_bV7XM4uEaLxQHxX34dXPrA&h=AT0EfWYY8cQal8xUYhKa8xjtLF5Jy78dQvmpidaCAYc51SNBFod1JebZVdkYxHIpZkS-R5UoPuVLJWpMqRQ3-ooxgmya8DKjK4dcLNzdingGe36IASr_YnuYhVxR2vzARFJZtA) lub [FB](https://www.facebook.com/szkolaodpodstaw/)
 2. **Przedstaw swój zespół**:
-   - Podaj **nazwę zespołu** oraz **osobę kontaktową**.
+   - Podaj nazwę zespołu oraz osobę kontaktową.
 3. **Przekazuj informacje dotyczące marszobiegu**:
    - Planujecie marszobieg? Poinformuj o tym!
    - Po zakończeniu marszobiegu podaj liczbę uczestników i wspólnie pokonany dystans.
