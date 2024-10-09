@@ -2,7 +2,7 @@
 title: "FabLab: O koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL"
 meta_title: ""
 description: "Podczas pierwszego spotkania z serii FabLab rozmawialiśmy z naukowcami z Instytutu Technicznego Wojsk Lotniczych, Michałem Dziendzikowskim i Kamilem Kowalczykiem."
-date: 2022-10-04T08:00:00Z
+date: 2024-10-04T08:00:00Z
 image: "/images/ref-fablab-itwl.png"
 author: "Stoigniew"
 categories: ["Fablab"]

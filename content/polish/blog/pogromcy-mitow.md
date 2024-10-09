@@ -2,7 +2,7 @@
 title: "Pogromcy Mitów, Bo Ty tylko siedzisz przy komputerze!"
 meta_title: ""
 description: "Ostatnio słyszałem kolejny raz rodzica cytującego swoje nastoletnie dziecko: Nie wiem, co będę robić w życiu, ale na pewno nie chcę mieć takiej pracy jak Ty"
-date: 2022-10-06T08:00:00Z
+date: 2024-10-06T08:00:00Z
 image: "/images/ref-fablab-pogromcy-mitow.png"
 author: "Stoigniew"
 categories: ["Fablab"]

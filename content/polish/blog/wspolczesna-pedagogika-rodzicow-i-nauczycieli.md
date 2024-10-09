@@ -2,7 +2,7 @@
 title: "Współczesna Pedagogika Rodziców i Nauczycieli"
 meta_title: ""
 description: "Przełomem była dla mnie pewna wywiadówka (klasa 2). Rodzice niepokoili się częstymi negatywnymi uwagami w Librusie i zastanawiali, czy wychowawca w ogóle chwali dzieci."
-date: 2022-09-01T08:00:00Z
+date: 2024-06-24T08:00:00Z
 image: "/images/ref-book-modern-pedagogy.png"
 author: "Stoigniew"
 categories: ["Bookcrossing"]

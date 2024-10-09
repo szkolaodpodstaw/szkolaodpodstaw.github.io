@@ -2,7 +2,7 @@
 title: "Warsztaty: Współczesna Pedagogika"
 meta_title: ""
 description: "Zapraszamy rodziców uczniów Szkoły Podstawowej nr 396 przy ul. Anny German oraz wszystkich zainteresowanych na warsztaty, które pomogą lepiej zrozumieć współczesne tendencje wychowawcze i wspólnie zastanowić się nad codziennymi wyzwaniami w wychowaniu dzieci."
-date: 2022-10-09T08:00:00Z
+date: 2024-10-09T08:00:00Z
 image: "/images/ref-warsztaty.png"
 author: "Stoigniew"
 categories: ["Warsztaty"]

@@ -2,7 +2,7 @@
 title: "Zmęczenie materiału, Aloha Airlines, Przedziwna analogia"
 meta_title: ""
 description: ""
-date: 2022-10-05T08:00:00Z
+date: 2024-10-05T08:00:00Z
 image: "/images/ref-fablab-aloha-airlines.png"
 author: "Stoigniew"
 categories: ["Fablab"]

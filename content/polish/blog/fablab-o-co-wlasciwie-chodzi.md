@@ -2,7 +2,7 @@
 title: "FabLab: O co właściwie chodzi?"
 meta_title: ""
 description: "Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż?"
-date: 2022-10-03T08:00:00Z
+date: 2024-10-03T08:00:00Z
 image: "/images/fablab-examples.png"
 author: "Stoigniew"
 categories: ["Fablab"]
