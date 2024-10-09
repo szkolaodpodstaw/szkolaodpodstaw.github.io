@@ -4,6 +4,3 @@ languageName = "Pl"
 languageCode = "pl-pl"
 contentDir = "content/polish" 
 weight = 1
-
-[pl.params]
-  readMore = "Czytaj więcej"

@@ -12,6 +12,12 @@ name = "Newsletter"
 pageRef = "/newsletter"
 weight = 2
 
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 3
+
+
 [[footer]]
 name = "Polityka prywatności"
 pageRef = "/privacy-policy"
