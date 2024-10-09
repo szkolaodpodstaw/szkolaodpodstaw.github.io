@@ -1,7 +1,7 @@
 ---
 title: "FabLab: O co właściwie chodzi?"
 meta_title: ""
-description: "Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy?"
+description: "Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż?"
 date: 2022-10-03T08:00:00Z
 image: "/images/fablab-examples.png"
 author: "Stoigniew"
@@ -10,9 +10,7 @@ tags: ["fablab", "diy", "pasja"]
 draft: false
 ---
 
-Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż? 
-
-Takie miejsca pobudzały wyobraźnię i zachęcały do eksperymentowania. FabLab to współczesna wersja takich miejsc.
+Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż? Takie miejsca pobudzały wyobraźnię i zachęcały do eksperymentowania. FabLab to współczesna wersja takich miejsc.
 
 W naszej okolicy (Warszawa): 
 

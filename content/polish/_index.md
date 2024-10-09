@@ -19,7 +19,7 @@ actions:
     - time: "Niedziela, 20 paź, godz. 15.00-18.00"
       name: "Planujemy kolejny [Marszobieg](/marszobieg).:hiking_boot:"
     - time: "Piątek, 8 lis, godz. 17.00-19.00"
-      name: "Centrum Lokalne CLŻ: [Warsztaty: Współczesna Pedagogika](/warsztaty). Wkrótce rozpoczynamy zapisy.:clapper:"  
+      name: "Centrum Lokalne CLŻ: [Warsztaty: Współczesna Pedagogika](/blog/warsztaty-wspolczesna-pedagogika). Wkrótce rozpoczynamy zapisy.:clapper:"  
   highlights: 
     - time: "Piątek, 4 paź"
       name: "Centrum Lokalne CLŻ: O [FabLab, koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL](/blog/fablab-itwl-spotkanie).:airplane:"
@@ -89,8 +89,8 @@ features:
       - "Zapraszaj ekspertów."
     button:
       enable: true
-      label: "Zorganiuzuj grupę"
-      link: "/warsztaty"      
+      label: "Wymieniaj doświadczenia"
+      link: "/d/warsztaty"      
   - title: "Podcast"
     image: "/images/podcast.png"
     content: "Dlaczego? Aby łączyć świat dorosłych z edukacją."

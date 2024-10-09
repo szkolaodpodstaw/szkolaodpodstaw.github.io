@@ -1,5 +1,7 @@
 ---
 title: "Zmęczenie materiału, Aloha Airlines, Przedziwna analogia"
+meta_title: ""
+description: ""
 date: 2022-10-05T08:00:00Z
 image: "/images/ref-fablab-aloha-airlines.png"
 author: "Stoigniew"
@@ -7,9 +9,8 @@ categories: ["Fablab"]
 tags: ["fablab", "diy", "pasja"]
 draft: false
 ---
-## Niezwykłe wydarzenie
 
-Podczas pierwszego spotkania z serii [FabLab](/d/fablab), rozmawialiśmy z naukowcami z Instytutu Technicznego Wojsk Lotniczych [ITWL](https://itwl.pl/), Michałem Dziendzikowskim i Kamilem Kowalczykiem. Michał po mistrzowsku wytłumaczył, czym jest zmęczenie materiału, odwołując się do działających na wyobraźnię przykładów, takich jak awaryjne lądowanie samolotu Aloha Airlines - niezwykłe wydarzenie w historii lotnictwa, ponieważ mimo utraty części dachu kadłuba, piloci zdołali bezpiecznie wylądować, a niemal wszyscy pasażerowie przeżyli, najprawdopodobniej dzięki zapiętym pasom.
+Michał po mistrzowsku wytłumaczył, czym jest zmęczenie materiału, odwołując się do działających na wyobraźnię przykładów, takich jak awaryjne lądowanie samolotu Aloha Airlines - niezwykłe wydarzenie w historii lotnictwa i przedziwna analogia. Mimo utraty części dachu kadłuba, piloci zdołali bezpiecznie wylądować, a niemal wszyscy pasażerowie przeżyli, najprawdopodobniej dzięki zapiętym pasom.
 
 ## Aloha Airlines
 
@@ -18,3 +19,5 @@ Samolot latał między wyspami na Hawajach. Podczas [lotu nr 243](https://en.wik
 ## Przedziwna analogia
 
 Dla mnie: Przedziwna jest analogia między nami a maszynami, które projektujemy. Ta historia to metafora tego, czego doświadczamy dziś. Skumulowany stres, godziny przed ekranem, oczekiwania innych… i coraz więcej wydarzeń, z których każde wymaga zaangażowania — startu i lądowania… i nagle coś pęka. Podobnie jak materiały w maszynach, my także mamy swoje limity, choć często pozostają one niezauważalne aż do momentu awarii. Jest to tym bardziej zaskakujące, im bardziej dotyka młodszych ludzi.
+
+Podczas pierwszego spotkania z serii [FabLab](/d/fablab), rozmawialiśmy z naukowcami z Instytutu Technicznego Wojsk Lotniczych [ITWL](https://itwl.pl/), Michałem Dziendzikowskim i Kamilem Kowalczykiem. 
