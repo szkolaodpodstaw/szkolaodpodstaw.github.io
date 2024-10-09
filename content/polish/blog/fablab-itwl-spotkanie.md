@@ -12,7 +12,7 @@ draft: false
 
 Podczas pierwszego spotkania z serii [FabLab](/d/fablab) rozmawialiśmy z naukowcami z Instytutu Technicznego Wojsk Lotniczych, Michałem Dziendzikowskim i Kamilem Kowalczykiem. Opowiedzieli nam o swojej pracy, F-16 oraz o koncepcji Smart Karmnika.
 
-Były niespodzianki! Konkurs siły w wyginaniu belki tensometrem💪 i sesja zdjęciowa w podczerwieni💥🎬
+Były opowiadania o tym, jak tworzy się nowe rzeczy, dyskusje o tym, czym różni się most od myśliwca, dlaczego konstrukcja może pęknąć, co wspólnego z tym ma Smart Karmnik, a także niespodzianki: konkurs siły w wyginaniu belki tensometrem💪 oraz sesja zdjęciowa w podczerwieni💥🎬.
 
 ## Michał Dziendzikowski
 
@@ -24,5 +24,5 @@ Absolwent wydziału MEiL PW, doktor inżynierii mechanicznej w Instytucie Techni
 
 ## Smart Karmnik
 
-Koncepcja powstała podczas luźnej rozmowy o [FabLabie](/d/fablab) i Citizen Science na ulicy Przasnyskiej.
+Pomysł powstał podczas luźnej rozmowy o [FabLabie](/d/fablab) i Citizen Science na ulicy Przasnyskiej.
 
