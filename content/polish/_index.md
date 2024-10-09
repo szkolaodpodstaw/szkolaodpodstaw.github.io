@@ -57,7 +57,7 @@ features:
     button:
       enable: true
       label: "Czytaj"
-      link: "/bookcrossing"
+      link: "/d/bookcrossing"
   - title: "Liga Lego"
     image: "/images/lego.png"
     content: "Dlaczego? Aby rozwijać umiejętności STEAM w praktyce (międzynarodowy program Lego)."
