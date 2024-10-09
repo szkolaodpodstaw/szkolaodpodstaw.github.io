@@ -14,12 +14,18 @@ Ostatnio słyszałem kolejny raz rodzica cytującego swoje nastoletnie dziecko: 
 
 ## Pogromcy Mitów
 
-Kamil także zderzył się z taką opinią i odpowiedział na nią bardzo przekonującymi przykładami z pracy naukowca, testem siły z użyciem tensometru oraz sesją zdjęć w podczerwieni — to był materiał na odcinek „Pogromcy Mitów”!
+Kamil także zderzył się z taką opinią i odpowiedział na nią bardzo przekonującymi przykładami z pracy naukowca, testem siły z użyciem tensometru💪 oraz sesją zdjęć w podczerwieni💥🎬 — to był materiał na odcinek „Pogromcy Mitów”!
+
+{{< image src="images/ref-fablab-new-things.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+Kamil opowiedział nam też historię pewnej eksperymentalnej podróży: krok po kroku, od pomysłu do unikalnego urządzenia.
 
 ## Dla mnie
 
-To wydarzenie okazało się prawdziwie międzypokoleniowym spotkaniem. Zaskakujące, jak bardzo — **uczestnicy mieli od 9 do 90 lat**! Wszyscy wychodzili uśmiechnięci!🙂 To pokazuje, że warto próbować łączyć świat dorosłych z edukacją.
+To wydarzenie okazało się prawdziwie międzypokoleniowym spotkaniem. Zaskakujące, jak bardzo — **uczestnicy mieli od 9 do 90 lat**! Wszyscy wychodzili uśmiechnięci!🙂 To pokazuje, że warto próbować łączyć świat dorosłych z edukacją. Okazuje się, że od układania klocków do tworzenia nowych rzeczy w dorosłym świecie nie jest wcale tak daleko!
 
 {{< image src="images/ref-fablab-9-90.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+Sesja zdjęciowa w podczerwieni: w kategorii zimne ręce byłem bezkonkurencyjny!🥶
 
 Podczas pierwszego spotkania z serii [FabLab](/d/fablab), rozmawialiśmy z naukowcami z Instytutu Technicznego Wojsk Lotniczych [ITWL](https://itwl.pl/), Michałem Dziendzikowskim i Kamilem Kowalczykiem.
