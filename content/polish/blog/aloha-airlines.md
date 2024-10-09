@@ -10,7 +10,7 @@ tags: ["fablab", "diy", "pasja"]
 draft: false
 ---
 
-Michał po mistrzowsku wytłumaczył, czym jest zmęczenie materiału, odwołując się do działających na wyobraźnię przykładów, takich jak awaryjne lądowanie samolotu Aloha Airlines - niezwykłe wydarzenie w historii lotnictwa a dla mnmie przedziwna analogia. Mimo utraty części dachu kadłuba, piloci zdołali bezpiecznie wylądować, a niemal wszyscy pasażerowie przeżyli, najprawdopodobniej dzięki zapiętym pasom.
+Michał po mistrzowsku wytłumaczył, czym jest zmęczenie materiału, odwołując się do działających na wyobraźnię przykładów, takich jak awaryjne lądowanie samolotu Aloha Airlines - niezwykłe wydarzenie w historii lotnictwa a dla mnie przedziwna analogia. Mimo utraty części dachu kadłuba, piloci zdołali bezpiecznie wylądować, a niemal wszyscy pasażerowie przeżyli, najprawdopodobniej dzięki zapiętym pasom.
 
 ## Aloha Airlines
 
