@@ -41,7 +41,7 @@
             </li>
           </ul>
           <div class="content mb-10">
-            {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
+            <!-- {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }} -->
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
@@ -63,7 +63,7 @@
               </div>
             {{ end }}
             <div class="lg:col-4 flex items-center">
-              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
+              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" true "Telegram" false "Linkedin" true "Pinterest" false "Tumblr" false "Vk" false "Twitter" false "Email" false "Reddit" false) }}
             </div>
           </div>
           <!-- comments -->

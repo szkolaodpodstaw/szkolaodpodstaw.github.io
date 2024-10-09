@@ -22,7 +22,7 @@ actions:
       name: "Centrum Lokalne CLŻ: [Warsztaty: Współczesna Pedagogika](/warsztaty). Wkrótce rozpoczynamy zapisy.:clapper:"  
   highlights: 
     - time: "Piątek, 4 paź"
-      name: "Centrum Lokalne CLŻ: O [FabLab, koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL](/fablab/itwl).:airplane:"
+      name: "Centrum Lokalne CLŻ: O [FabLab, koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL](/blog/fablab-itwl-spotkanie).:airplane:"
 # Features
 features:
   - title: "Marszobieg"
@@ -46,7 +46,7 @@ features:
     button:
       enable: true
       label: "Próbuj"
-      link: "/fablab"      
+      link: "/d/fablab"      
   - title: "Bookcrossing"
     image: "/images/bookcrossing.png"
     content: "Dlaczego? Aby więcej czytać i rozmawiać o wychowaniu."

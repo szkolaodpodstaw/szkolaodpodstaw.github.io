@@ -1,13 +1,14 @@
 ---
-title: "FabLab"
-# meta title
+title: "FabLab: O co właściwie chodzi?"
 meta_title: ""
-# meta description
-description: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
-# save as draft
+description: "Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy?"
+date: 2022-10-03T08:00:00Z
+image: "/images/fablab-examples.png"
+author: "Stoigniew"
+categories: ["Fablab"]
+tags: ["fablab", "diy", "pasja"]
 draft: false
 ---
-## FabLab: O co właściwie chodzi? 
 
 Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż? 
 
@@ -23,17 +24,17 @@ W naszej okolicy (Warszawa):
 
 {{< image src="images/fablab-examples.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
 
-### Dlaczego FabLaby powstają? 
+## Dlaczego FabLaby powstają? 
 
 Bo uwielbiamy tworzyć! Nie potrzebujemy do tego ocen, nagród, a nawet pochwał. To nasz naturalny instynkt. 
 
 Potrzebujemy przestrzeni, gdzie możemy uczyć się samodzielnego tworzenia nowych rzeczy! Dlaczego to jest coraz ważniejsze? Bo świat zmienia się coraz szybciej. Metody nauki oparte na wykonywaniu instrukcji już nie wystarczą.
 
-### Szkoła jak FabLab? 
+## Szkoła jak FabLab? 
 Wyobrażam sobie szkołę, w której wiele sal jest jak FabLab: techniczna, podróżnicza, teatralna, muzyczna… W takiej szkole mógłbyś spotkać pasjonata i odkryć swoją pasję.
 
-### Początki mogą być trudne
+## Początki mogą być trudne
 
 Początki tworzenia nowych rzeczy mogą być trudne — tym trudniejsze, im bardziej boimy się porażki. Dlatego potrzebujemy przestrzeni, w której nieudana próba jest częścią nauki. 
 
-W pewnym sensie projekt szkoły od podstaw także jest taką przestrzenią. Próbujemy nowych rzeczy, eksperymentujemy. Pierwszym krokiem była wizyta w FabLab Orange, a kolejnym — [spotkanie z Michałem i Kamilem z ITWL](/fablab/itwl).
+W pewnym sensie projekt szkoły od podstaw także jest taką przestrzenią. Próbujemy nowych rzeczy, eksperymentujemy. Pierwszym krokiem była wizyta w FabLab Orange, a kolejnym — [spotkanie z Michałem i Kamilem z ITWL](/blog/fablab-itwl-spotkanie).

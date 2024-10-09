@@ -20,7 +20,7 @@
         <i class="fa-regular fa-folder mr-1"></i>
         {{ range $i,$p:= $categories }}
           <a
-            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
+            href="{{ `d/` | relLangURL }}{{ . | urlize | lower }}/"
             class="ms-1"
             >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
               {{ "," }}
