@@ -1,7 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Wykorzystaj 10 propozycji działania na rzecz społeczności szkolnej"
+  # title: "Hipoteza eksperymentalna: Nie musimy czekać na zmiany systemowe. Działanie na rzecz społeczności szkolnej zmienia wiele."
+  title: "Dlaczego? Bo podstawą szkoły jest jej społeczność."
   content: "Inicjatywa rodziców: 10 działań [pro-CSR](/csr) na 10 miesięcy 2024/25."
   image: "/images/banner1.png"
   button:
@@ -9,23 +10,9 @@ banner:
     label: "Tło"
     link: "/about"
 
-# Actions
-actions:
-  titleUpcoming: "Nadchodzące wydarzenia"
-  titleHighlights: "Relacje"
-  joinNewsletter: "Newsletter"
-  aboutNewsletter: "Bądź w kontakcie. Bez spamu. Co miesiąc historia, inspiracje i zaproszenia."
-  events: 
-    - time: "Niedziela, 20 paź, godz. 15.00-18.00"
-      name: "Planujemy kolejny [Marszobieg](/marszobieg).:hiking_boot:"
-    - time: "Piątek, 8 lis, godz. 17.00-19.00"
-      name: "Centrum Lokalne CLŻ: [Warsztaty: Współczesna Pedagogika](/blog/warsztaty-wspolczesna-pedagogika). Wkrótce rozpoczynamy zapisy.:clapper:"  
-  highlights: 
-    - time: "Piątek, 4 paź"
-      name: "Centrum Lokalne CLŻ: O [FabLab, koncepcie Smart Karmnika, F16, itp. rozmawiamy z naukowcami ITWL](/blog/fablab-itwl-spotkanie).:airplane:"
 # Features
 features:
-  - title: "Marszobieg"
+  - title: "#1 Marszobieg"
     image: "/images/marszobieg.png"
     content: "Dlaczego? Bo za dużo siedzimy (w szkole, w pracy, w domu) i za mało się znamy."
     bulletpoints:
@@ -34,9 +21,9 @@ features:
       - "Spotykaj innych."
     button:
       enable: true
-      label: "Keep moving"
+      label: "Pierwszy krok"
       link: "/marszobieg"
-  - title: "FabLab"
+  - title: "#2 FabLab"
     image: "/images/fablab.png"
     content: "Dlaczego? Aby tworzyć w przestrzeni, gdzie nieudana próba jest częścią nauki."
     bulletpoints:
@@ -45,9 +32,9 @@ features:
       - "Współpracuj (bez względu na wiek)"
     button:
       enable: true
-      label: "Próbuj"
+      label: "Pierwszy Krok"
       link: "/d/fablab"      
-  - title: "Bookcrossing"
+  - title: "#3 Bookcrossing"
     image: "/images/bookcrossing.png"
     content: "Dlaczego? Aby więcej czytać i rozmawiać o wychowaniu."
     bulletpoints:
@@ -56,22 +43,22 @@ features:
       - "Wymieniaj się z innymi."
     button:
       enable: true
-      label: "Czytaj"
+      label: "Pierwszy Krok"
       link: "/d/bookcrossing"
-  - title: "Liga Lego"
+  - title: "#4 Inter Liga"
     image: "/images/lego.png"
-    content: "Dlaczego? Aby rozwijać umiejętności STEAM w praktyce (międzynarodowy program Lego)."
+    content: "Dlaczego? Aby łączyć różne przedmioty w coś interesującego."
     bulletpoints:
-      - "Zorganizuj zespół."
-      - "Usuwaj przeszkody."
-      - "Pozwalaj zespołowi działać samodzielnie."
+      - "Połącz przedmioty."
+      - "Stwórz coś interesującego."
+      - "Zainteresuj innych."
     button:
       enable: false
       label: ""
       link: ""      
-  - title: "Citizen Science"
+  - title: "#5 Citizen Science"
     image: "/images/citizen.png"
-    content: "Dlaczego? Aby lepiej rozumieć świat wokół nas i wspierać realne badania naukowe."
+    content: "Dlaczego? Aby lepiej rozumieć świat wokół nas i uczyć się metody naukowej."
     bulletpoints:
       - "Obserwuj otoczenie."
       - "Ucz się metody naukowej."
@@ -80,18 +67,18 @@ features:
       enable: false
       label: ""
       link: ""      
-  - title: "Warsztaty"
+  - title: "#6 Warsztaty"
     image: "/images/workshops.png"
     content: "Dlaczego? Aby wymieniać doświadczenia i lepiej współpracować jako zespół."
     bulletpoints:
-      - "Analizuj scenki z życia."
-      - "Dyskutuj w małych grupach."
+      - "Wymieniaj doświadczenia."
+      - "Spójrz na sprawy z różnych perspektyw."
       - "Zapraszaj ekspertów."
     button:
       enable: true
-      label: "Wymieniaj doświadczenia"
+      label: "Pierwszy Krok"
       link: "/d/warsztaty"      
-  - title: "Podcast"
+  - title: "#7 Podcast"
     image: "/images/podcast.png"
     content: "Dlaczego? Aby łączyć świat dorosłych z edukacją."
     bulletpoints:
@@ -102,7 +89,7 @@ features:
       enable: false
       label: ""
       link: ""      
-  - title: "System Odznak"
+  - title: "#8 System Odznak"
     image: "/images/badges.png"
     content: "Dlaczego? Aby docenić postępy bez oceniania."
     bulletpoints:
@@ -113,7 +100,7 @@ features:
       enable: false
       label: ""
       link: "" 
-  - title: "Big Fat Fluffy"
+  - title: "#9 Big Fat Fluffy"
     image: "/images/brain.png"
     content: "Dlaczego? Aby uczyć (się) efektywniej i żyć szcześliwej."
     bulletpoints:
@@ -122,9 +109,9 @@ features:
       - "Żyj szczęśliwiej."
     button:
       enable: true
-      label: "Odrkywaj mózg"
+      label: "Pierwszy Krok"
       link: "/bff"      
-  - title: "Joy of Missing Out (JOMO)"
+  - title: "#10 Joy of Missing Out (JOMO)"
     image: "/images/jomo.png"
     content: "Dlaczego? Bo za dużo naszej uwagi zajmują rzeczy bez większego znaczenia."
     bulletpoints:
@@ -133,6 +120,6 @@ features:
       - "Bądź obecny."
     button:
       enable: true
-      label: "Ograniczaj rozproszenia"
+      label: "Pierwszy Krok"
       link: "/jomo"      
 ---

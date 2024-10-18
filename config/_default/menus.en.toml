@@ -1,4 +1,4 @@
-############# Polish navigation ##############
+############# English navigation ##############
 
 # main menu
 
@@ -19,6 +19,6 @@ weight = 3
 
 
 [[footer]]
-name = "Polityka prywatności"
+name = "Privacy policy"
 pageRef = "/privacy-policy"
 weight = 1

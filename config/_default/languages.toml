@@ -1,6 +1,12 @@
 ################ Polish language ##################
 [pl]
-languageName = "Pl"
+languageName = "PL"
 languageCode = "pl-pl"
 contentDir = "content/polish" 
 weight = 1
+
+[en]
+languageName = "EN"
+languageCode = "en-us"
+contentDir = "content/english" 
+weight = 2
