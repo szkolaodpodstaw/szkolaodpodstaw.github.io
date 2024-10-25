@@ -3,7 +3,7 @@ title: "Warsztaty dla Rodziców: Współczesna Pedagogika"
 meta_title: ""
 description: "Współczesne tendencje wychowawcze, codzienne wyzwania, autonomia vs dyscyplina, chwalenie w kontekście motywacji wewnętrznej"
 date: 2024-10-24T08:00:00Z
-image: "/images/ref-workshops.png"
+image: "/images/ref-workshops.jpg"
 author: "Stoigniew"
 categories: ["Warsztaty"]
 tags: ["wychowanie", "pedagogika", "warsztaty"]
