@@ -5,8 +5,8 @@ description: "Przełomem była dla mnie pewna wywiadówka (klasa 2). Rodzice nie
 date: 2024-06-24T08:00:00Z
 image: "/images/ref-book-modern-pedagogy.png"
 author: "Stoigniew"
-categories: ["Bookcrossing"]
-tags: ["bookcrossing", "pasja", "warsztaty"]
+categories: ["Bookcrossing", "Warsztaty"]
+tags: ["bookcrossing", "pasja", "wychowanie"]
 draft: false
 ---
 
@@ -27,4 +27,4 @@ Prof. Piotr Błajet, Uniwersytet Mikołaja Kopernika
 
 ## Spróbuj 
 
-Jeśli wydaje ci się to interesujące, ale nie jesteś przekonany lub myślisz (i słusznie), że diabeł tkwi w szczegółach, albo po prostu chciałbyś spróbować czegoś nowego, zapraszam — zgłoś zainteresowanie uczestnictwem w warsztatach [Współczesna Pedagogika](/warsztaty), odezwij się na [WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D%252B48724139135%26app%3Dfacebook%26entry_point%3Dpage_cta%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2WLFdxfTWnBIuKYU9Il8pcqeq1yQeFNzHgty5t1dkrCtcBUJaeF51uIsI_aem_bV7XM4uEaLxQHxX34dXPrA&h=AT0EfWYY8cQal8xUYhKa8xjtLF5Jy78dQvmpidaCAYc51SNBFod1JebZVdkYxHIpZkS-R5UoPuVLJWpMqRQ3-ooxgmya8DKjK4dcLNzdingGe36IASr_YnuYhVxR2vzARFJZtA) lub [FB](https://www.facebook.com/szkolaodpodstaw/), przeczytaj książkę, dołącz do mojego [newslettera](/newsletter).
+Jeśli wydaje ci się to interesujące, ale nie jesteś przekonany lub myślisz (i słusznie), że diabeł tkwi w szczegółach, albo po prostu chciałbyś spróbować czegoś nowego, zapraszam — zgłoś zainteresowanie uczestnictwem w warsztatach [Współczesna Pedagogika](/blog/warsztaty-wspolczesna-pedagogika), odezwij się na [WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D%252B48724139135%26app%3Dfacebook%26entry_point%3Dpage_cta%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2WLFdxfTWnBIuKYU9Il8pcqeq1yQeFNzHgty5t1dkrCtcBUJaeF51uIsI_aem_bV7XM4uEaLxQHxX34dXPrA&h=AT0EfWYY8cQal8xUYhKa8xjtLF5Jy78dQvmpidaCAYc51SNBFod1JebZVdkYxHIpZkS-R5UoPuVLJWpMqRQ3-ooxgmya8DKjK4dcLNzdingGe36IASr_YnuYhVxR2vzARFJZtA) lub [FB](https://www.facebook.com/szkolaodpodstaw/), przeczytaj książkę, dołącz do mojego [newslettera](/newsletter).

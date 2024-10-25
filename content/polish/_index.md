@@ -34,40 +34,7 @@ features:
       enable: true
       label: "Pierwszy Krok"
       link: "/d/fablab"      
-  - title: "#3 Bookcrossing"
-    image: "/images/bookcrossing.png"
-    content: "Dlaczego? Aby więcej czytać i rozmawiać o wychowaniu."
-    bulletpoints:
-      - "Czytaj."
-      - "Odkrywaj."
-      - "Wymieniaj się z innymi."
-    button:
-      enable: true
-      label: "Pierwszy Krok"
-      link: "/d/bookcrossing"
-  - title: "#4 Inter Liga"
-    image: "/images/lego.png"
-    content: "Dlaczego? Aby łączyć różne przedmioty w coś interesującego."
-    bulletpoints:
-      - "Połącz przedmioty."
-      - "Stwórz coś interesującego."
-      - "Zainteresuj innych."
-    button:
-      enable: false
-      label: ""
-      link: ""      
-  - title: "#5 Citizen Science"
-    image: "/images/citizen.png"
-    content: "Dlaczego? Aby lepiej rozumieć świat wokół nas i uczyć się metody naukowej."
-    bulletpoints:
-      - "Obserwuj otoczenie."
-      - "Ucz się metody naukowej."
-      - "Działaj wspólnie."
-    button:
-      enable: false
-      label: ""
-      link: ""      
-  - title: "#6 Warsztaty"
+  - title: "#3 Warsztaty"
     image: "/images/workshops.png"
     content: "Dlaczego? Aby wymieniać doświadczenia i lepiej współpracować jako zespół."
     bulletpoints:
@@ -78,6 +45,39 @@ features:
       enable: true
       label: "Pierwszy Krok"
       link: "/d/warsztaty"      
+  - title: "#4 Bookcrossing"
+    image: "/images/bookcrossing.png"
+    content: "Dlaczego? Aby więcej czytać i rozmawiać o wychowaniu."
+    bulletpoints:
+      - "Czytaj."
+      - "Odkrywaj."
+      - "Wymieniaj się z innymi."
+    button:
+      enable: true
+      label: "Pierwszy Krok"
+      link: "/d/bookcrossing"
+  - title: "#5 Inter Liga"
+    image: "/images/lego.png"
+    content: "Dlaczego? Aby łączyć różne przedmioty w coś interesującego."
+    bulletpoints:
+      - "Połącz przedmioty."
+      - "Stwórz coś interesującego."
+      - "Zainteresuj innych."
+    button:
+      enable: false
+      label: ""
+      link: ""      
+  - title: "#6 Citizen Science"
+    image: "/images/citizen.png"
+    content: "Dlaczego? Aby lepiej rozumieć świat wokół nas i uczyć się metody naukowej."
+    bulletpoints:
+      - "Obserwuj otoczenie."
+      - "Ucz się metody naukowej."
+      - "Działaj wspólnie."
+    button:
+      enable: false
+      label: ""
+      link: ""      
   - title: "#7 Podcast"
     image: "/images/podcast.png"
     content: "Dlaczego? Aby łączyć świat dorosłych z edukacją."
