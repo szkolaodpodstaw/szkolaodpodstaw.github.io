@@ -2,7 +2,7 @@
 # Banner
 banner:
   #title: "Our experimental hypothesis: We don't have to wait for system changes. Doing things for our school community makes a difference."
-  title: "Why? Because the foundation of a school is its community."
+  title: "Experiment: 10 activities to support your local school community"
   content: "Parents' initiative: 10 [pro-CSR](/csr) actions for 10 months in 2024/25."
   image: "/images/banner1.png"
   button:
