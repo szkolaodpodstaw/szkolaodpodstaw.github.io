@@ -16,7 +16,7 @@ Niniejsza Polityka prywatności określa zasady przetwarzania i ochrony danych o
 
 #### 2. Administrator danych
 
-Administratorem danych osobowych w ramach projektu "Szkoła od podstaw" jest zespół koordynujący projekt, dostępny pod adresem email: projekt@szkolaodpodstaw.pl.
+Administratorem danych osobowych w ramach projektu "Szkoła od podstaw" jest Stoigniew Sztank, dostępny pod adresem email: projekt@szkolaodpodstaw.pl.
 
 #### 3. Zakres zbieranych danych
 
@@ -26,8 +26,8 @@ Zbieramy wyłącznie adresy e-mail przekazane dobrowolnie przez Użytkowników o
 
 Dane osobowe przetwarzane są w celu:
 
-- Umożliwienia kontaktu z Użytkownikami
-- Przesyłania informacji dotyczących projektu, w tym informacji promocyjnych.
+- Umożliwienia kontaktu z Użytkownikami.
+- Przesyłania informacji dotyczących projektu.
 
 #### 5. Podstawa prawna przetwarzania danych
 
