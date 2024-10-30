@@ -3,7 +3,7 @@ title: "FabLab: O co właściwie chodzi?"
 meta_title: ""
 description: "Pamiętasz z dzieciństwa jakieś interesujące miejsce, w którym było dużo różnych rzeczy? Może szopa u dziadków, narzędziówka, garderoba, garaż?"
 date: 2024-10-03T08:00:00Z
-image: "/images/fablab-examples.png"
+image: "/images/ref-fablab-examples.png"
 author: "Stoigniew"
 categories: ["Fablab"]
 tags: ["fablab", "diy", "pasja"]
@@ -19,8 +19,6 @@ W naszej okolicy (Warszawa):
 * FabLab Pobite Gary (Wawer): instrumenty muzyczne, studio nagrań.
 * Hackerspace (ul. Żelazna): programowanie, technologie.
 * Męska Szopa (Wola): współczesna wersja „szopy” z narzędziami.
-
-{{< image src="images/fablab-examples.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
 
 ## Dlaczego FabLaby powstają? 
 
