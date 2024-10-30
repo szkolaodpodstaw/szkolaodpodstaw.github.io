@@ -38,7 +38,7 @@ draft: false
    - Grupy WhatsApp dedykowane do komunikacji i wspólnej organizacji działań.
 
 #### Działania
-   - Program [10x10: 10 działań na 10 miesięcy](/10x10): Marszobieg, Bookcrossing, Liga Lego, Citizen Science, FabLab, Warsztaty, Podcast, System Odznak, Big Fat Fluffy (Odkrywaj Mózg), Joy of Missing Out (JOMO).
+   - Program 10x10: 10 działań na 10 miesięcy: Marszobieg, Bookcrossing, Inter Liga, Citizen Science, FabLab, Warsztaty, Podcast, System Odznak, Big Fat Fluffy (Odkrywaj Mózg), Joy of Missing Out (JOMO).
 
 #### Metoda działania
    - Inicjatywa społeczna: działamy bez formalnych struktur, skupiając się na współpracy i zaangażowaniu rodziców.
