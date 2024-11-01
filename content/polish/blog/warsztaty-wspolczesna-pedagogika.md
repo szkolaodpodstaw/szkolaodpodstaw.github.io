@@ -20,7 +20,7 @@ Terminy tego samego warsztatu
 *  📆 Piątek, 8 listopad w godz. 17:00–19:00
 *  📆 Sobota, 16 listopad w godz. 11:00–13:00
 
-Zapisy przez [CLŻ/StrefaZajęć](https://www.facebook.com/CLZoliborz/) od 29 października.
+Zapisy przez [CLŻ/StrefaZajęć](https://www.strefazajec.pl/course/view/id/67501).
 
 #### Terminy w Szkole Podstawowej nr 396
 
@@ -28,6 +28,12 @@ Zapisy przez [CLŻ/StrefaZajęć](https://www.facebook.com/CLZoliborz/) od 29 pa
 *  📆 Czwartek, 28 listopad w godz. 17:00–19:00
 
 Wejście wolne: Aula Szkoły. 
+
+## Ankieta
+
+Z góry dziękuję za wypełnienie krótkiej ankiety.
+
+{{< button label="Wypełnij ankietę " link="https://forms.gle/u33mkUHSKjJWU2XUA" style="solid" >}}
 
 Możesz pobrać plakat, klikając poniżej:
 
