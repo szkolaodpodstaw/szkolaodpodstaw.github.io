@@ -24,8 +24,3 @@ Dlaczego? Bo za dużo siedzimy (w szkole, w pracy, w domu) i za mało się znamy
 
 #### Łączny dystans: 121 km :medal:
 * zsumowane kilometry wszystkich marszobiegów
-
-### Zorganizuj zespół
-<a href="/marszobieg/diy">
-    {{< image src="images/diy-marszobieg.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-</a>

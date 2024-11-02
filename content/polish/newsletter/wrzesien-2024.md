@@ -28,17 +28,10 @@ W grupie **10 osób** przetestowaliśmy pomysł marszobiegu 1 września na Kępi
 
 Przez kolejne 10 miesięcy chcemy wspólnie pokonać **jak najwięcej kilometrów**. 
 
-### Propozycje do wykorzystania
-
-#### Dołącz do nas 
+### Dołącz do nas 
 
 <a href="/marszobieg/las-mlocinski-22-wrzesnia">
   {{< image src="images/invite-marszobieg-22-wrzesien.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false">}}
-</a>
-
-#### lub 
-<a href="/marszobieg/diy">
-    {{< image src="images/diy-marszobieg.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 </a>
 
 ### Inspiracje od innych: ruch transformuje mózg

@@ -21,3 +21,8 @@ body, .content, .content p, .content ul, .content ol, .content ul li, .content o
 p a {
     text-decoration: underline;
 }
+
+/* Newsletter form by Kit */
+div[data-style="clean"] {
+    padding-top: 0 !important;
+}

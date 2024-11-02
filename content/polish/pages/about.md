@@ -17,8 +17,6 @@ Poszukuję odpowiedzi na proste pytanie: **„Co mogę zrobić na rzecz szkoły?
 
 Pierwszy sposób, w jaki staram się odpowiedzieć na to pytanie, jest prosty: czytam i rozmawiam. Szukam koncepcji i praktyk, które zyskują szerokie poparcie. Potem dzielę się tym, czego się dowiedziałem, na przykład poprzez [newsletter](/newsletter).
 
-{{<cta>}}
-
 Drugim sposobem jest zastosowanie tej wiedzy w praktyce, poprzez konkretne [działania](/10x10). Jak możemy tworzyć środowisko, które wspiera rozwój całej społeczności szkolnej – rodziców, uczniów i nauczycieli? 
 
 ## Dlaczego? 

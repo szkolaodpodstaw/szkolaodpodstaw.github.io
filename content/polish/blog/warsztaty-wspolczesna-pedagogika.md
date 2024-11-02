@@ -35,10 +35,6 @@ Z góry dziękuję za wypełnienie krótkiej ankiety.
 
 {{< button label="Wypełnij ankietę " link="https://forms.gle/u33mkUHSKjJWU2XUA" style="solid" >}}
 
-Możesz pobrać plakat, klikając poniżej:
-
 <a href="/images/workshops-poster-sp396.png">
     {{< image src="images/workshops-poster-sp396.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 </a>
-
-<a href="/images/workshops-poster-sp396.png" download>Pobierz plakat</a>
