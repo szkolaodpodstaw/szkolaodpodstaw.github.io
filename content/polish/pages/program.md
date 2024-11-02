@@ -12,16 +12,7 @@ draft: false
 
 #### Misja
    - Promowanie samodzielności, kreatywności, wewnętrznej motywacji oraz umiejętności współpracy, ciągły rozwój kompetencji pedagogicznych i wychowawczych wśród rodziców i nauczycieli.
-   - Promowanie współczesnych, opartych na konsensusie naukowym oraz zyskujących szerokie uznanie podejść w edukacji, wychowaniu i rozwoju społecznym: 
-      - Social and Emotional Learning (SEL), 
-      - Project-Based Learning (PBL),  
-      - Universal Design for Learning (UDL), 
-      - Collaborative Learning (CL), 
-      - STEAM (ang. Science, Technology, Engineering, Art and Mathematics), 
-      - Citizen Science,
-      - 21st Century Skills,
-      - Corporate Social Responsibility (CSR),
-      - Joy of Missing Out (JOMO).
+   - Promowanie współczesnych, opartych na konsensusie naukowym oraz zyskujących szerokie uznanie podejść w edukacji, wychowaniu i rozwoju społecznym.
 
 #### Wartości
    - Współpraca, kreatywność, samodzielność, uważność, wsparcie społeczne.
