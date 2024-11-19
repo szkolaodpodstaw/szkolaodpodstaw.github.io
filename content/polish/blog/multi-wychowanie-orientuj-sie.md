@@ -32,3 +32,7 @@ Po pilotowych spotkaniach z Magdą myślę, że lepsza nazwa i forma tego wydarz
 
 * 📆 Piątek, 22 listopad w godz. 17:00–19:00
 * 📆 Czwartek, 28 listopad w godz. 17:00–19:00
+
+{{< image src="images/magda-leczkowska-clz-1.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+{{< image src="images/magda-leczkowska-clz-2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
