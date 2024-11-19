@@ -10,3 +10,5 @@ draft: false
 1. [10x10: Wrzesień, za dużo siedzimy, za mało się znamy, marszobieg, ruch transformuje mózg](/newsletter/wrzesien-2024)
 
 2. [10x10: Październik, współczesna pedagogika, chwalenie nie pomaga, tworzenie nowych rzeczy, FabLab](/newsletter/pazdziernik-2024)
+
+3. [10x10: Listopad, autonomia nauczycieli, uczniów, rola rodziców, działanie schematyczne, autorski program](/newsletter/listopad-2024)
