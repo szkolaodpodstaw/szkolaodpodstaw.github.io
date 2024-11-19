@@ -26,7 +26,7 @@ Przyjdź na spotkanie z Magdą Leczkowską.
 
 Dotkniemy absolutnych podstaw. 2 godziny i się orientujesz! Ta inwestycja szybko się zwróci – jeden temat szkolny potrafi emocjonować wielu rodziców na grupie klasowej na FB/WA przez wiele godzin!
 
-Po pilotowych spotkaniach z Magdą myślę, że lepsza nazwa i forma tego wydarzenia to: **Wykład interaktywny: (Multi) Wychowanie – Orientuj się!**
+Po pilotowych spotkaniach z Magdą myślę, że alternatywna nazwa tego spotkania to: **Wykład interaktywny: (Multi) Wychowanie – Orientuj się!**
 
 **Miejsce: Aula Szkoły 396, ul. German. Wejście wolne.**
 
