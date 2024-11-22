@@ -2,8 +2,8 @@
 # Banner
 banner:
   # title: "Hipoteza eksperymentalna: Nie musimy czekać na zmiany systemowe. Działanie na rzecz społeczności szkolnej zmienia wiele."
-  title: "Działaj na rzecz społeczności szkolnej"
-  content: "Inicjatywa rodziców: 10 działań [pro-CSR](/csr) na 10 miesięcy 2024/25."
+  title: "W szkole wcale nie chodzi o szkołę. To o co chodzi?"
+  content: "Inicjatywa rodziców: Działania [pro-CSR](/csr) na 10 miesięcy 2024/25."
   image: "/images/banner1.png"
   button:
     enable: false
