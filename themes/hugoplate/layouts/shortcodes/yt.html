@@ -1,0 +1,12 @@
+{{- $id := .Get "id" -}}
+{{- $start := .Get "start" | default "0" -}}
+{{- $end := .Get "end" -}}
+
+<div style="width: 100%; max-width: 1200px; aspect-ratio: 16 / 9;">
+    <iframe 
+        src="https://www.youtube.com/embed/{{ $id }}?start={{ $start }}{{ with $end }}&end={{ . }}{{ end }}" 
+        frameborder="0"
+        allowfullscreen
+        style="width: 100%; height: 100%; display: block;">
+    </iframe>
+</div>

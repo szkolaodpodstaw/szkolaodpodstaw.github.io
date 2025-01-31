@@ -12,3 +12,7 @@ draft: false
 2. [10x10: Październik, współczesna pedagogika, chwalenie nie pomaga, tworzenie nowych rzeczy, FabLab](/newsletter/pazdziernik-2024)
 
 3. [10x10: Listopad, autonomia nauczycieli, uczniów, rola rodziców, działanie schematyczne, autorski program](/newsletter/listopad-2024)
+
+4. [10x10: Grudzień, rola relacji w wychowaniu, bazar pedagogiczny, jak się w tym odnaleźć](/newsletter/grudzien-2024)
+
+5. [10x10: Styczeń, algorytmiczne doświadczenia, wyższy i niższy poziom, Inter Liga](/newsletter/styczen-2025)
